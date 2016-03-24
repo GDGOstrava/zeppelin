@@ -3,3 +3,7 @@
   elements: 
     - {name: "Pdf UK", description: "Pedagogická fakulta Univerzita Karlova", link: "https://www.pedf.cuni.cz/", imageUrl: "peduk.png"}
 - 
+  group: "Partneři"
+  elements: 
+    - {name: "eSkills", description: "eSkills", link: "http://eskills4jobs.ec.europa.eu/", imageUrl: "eskillslogo.png"}
+- 
