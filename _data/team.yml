@@ -61,3 +61,14 @@
     - {name: "linkedin", link: "https://cz.linkedin.com/in/petrcalon"}
     - {name: "twitter", link: "https://twitter.com/CalonPetr"}
     - {name: "site", link: "http://www.gegnovojicinsko.cz"}
+-
+  id: 5
+  name: "Libuše"
+  surname: "Přibylová"
+  title: "Organizace na místě"
+  thumbnailUrl: pribylova.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/libusepribylova"}
