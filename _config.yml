@@ -47,6 +47,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "GEGFest"}
+ - {permalink: "/blog/", text: "Novinky"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/tym/", text: "Tým"}
@@ -92,7 +93,7 @@ aboutBlock2:
 
 #TAHLE SEKCE ASI PRYC
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novinky"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -212,8 +213,8 @@ footerBlocks:
 
 
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogTitle: "Novinky"
+blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
