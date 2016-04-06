@@ -14,10 +14,10 @@ title: "GBG BizFest "
 email: ""
 description: "GBG BizFest"
 baseurl: ""
-url: "https://gdg-x.github.io"
+url: "http://www.bizfest.cz"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-76054163-1"
+googleAnalyticsSiteUrl: "www.bizfest.cz"
 siteVerification: ""
 
 # Organizer Info
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: ""
 
 # Head
-metaKeywords: "event, gbg, bizfest, google, business, android, chrome, prague"
+metaKeywords: "event, gbg, bizfest, google, business, , workshop, android, chrome, prague"
 twitterAccount: "@BizFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -43,27 +43,27 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "BizFest"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Řečníci"}
+ #- {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/schedule/", text: "Program"}
+ #- {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/team/", text: "Tým"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GBG BizFest <typeout> 2016"
-eventDate: "Červen, 2016"
+eventDate: "11. června, 2016"
 typeoutTextValues: '"", "Season", "Prague", "Czech Republic"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+#heroButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "O GBG BizFest"
+aboutTitle: "O BizFestu"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -72,13 +72,12 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "250", specialCharacter: "+", info: "účstníků", detail: "from everywhere"}
+ - {count: "20", specialCharacter: "+", info: "workshopů", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "paralelní programy", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Novinky"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -87,20 +86,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Venue"
+eventLocationName: "Impact Hub Praha"
+eventLocationLink: "http://www.hubpraha.cz/"
+eventStreetAddress: "Drtinova 557/10"
+eventAddressLocality: "Praha"
+eventAddressLocalityRegion: "Praha 5-Smíchov"
+eventPostalCode: "15000"
+eventAddressCountry: "Česká Republika"
+eventStartTime: "2016-06-11T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2016-06-11T20:00"
+eventPlaceCoordinates: "50.076465, 14.402273"
+mapCenterCoordinates: "50.076465, 14.402273"
+mapMobileCenterCoordinates: "50.076465, 14.402273"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -108,7 +107,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Impact Hub Praha"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -118,9 +117,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizátoři"
+partnersTitle: "Partneři"
+partnersC4sponsorsButton: "Staň se partnerem"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -172,20 +171,18 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/117705251838796315106/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=gbgprague", icon: "twitter"}
+ - {link: "https://www.facebook.com/gbgprague/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.gug.cz/cs/gbg/skupiny/prague", text: "GBG Prague"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gbgprague@gug.cz", text: "gbgprague@gug.cz"}
  -
   title: "FAQ"
   links:
