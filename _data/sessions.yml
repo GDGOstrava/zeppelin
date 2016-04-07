@@ -1,59 +1,251 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Přestávka"
+  place: ""
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Nejlepší čas si promluvit s přednášejícími a účastníky"
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Obědová pauza"
+  place: ""
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Nástroje Google ve výuce zeměpisu a ZSV"
+  description: "Slyšeli jste někdy o nástrojích jako Moje Mapy, Public Data Explorer, Trends, Zprávy, Výpravy Street View nebo Fonts? Na první pohled nesourodý mix Google služeb můžeme skvěle využít v hodinách zeměpisu i ZSV. Na praktických postupech si ukážeme, jak do výuky zapojit moderní online technologie, které nám umožní obohatit výuku, sledovat aktuální trendy, hledat souvislosti a lépe vtáhnout studenty do výuky. Všechny příklady jsou postaveny na otevřených výukových zdrojích."
   subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [3]
+  language: cz
+  complexity: "Basic" 
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Škola bez papírů s Google Apps"
+  description: "Uvažujete o systému, který vám ušetří práci, čas a navíc omezí zbytečnou spotřebu papíru? S pomocí Google Apps a několika rozšíření můžete papírovou agendu převést do online prostředí. Cestovní příkazy, žádosti o uvolnění z vyučování a další desítky příkladů můžete s kolegy, žáky nebo rodiči řešit online včetně elektronického podepsání žádostí a řízení běhu dokumentů (po odeslání rodičem jde žádost automaticky třídnímu učiteli, po jeho online podepsání se sama přepošle např. řediteli školy, který ji může online podepsat nebo zamítnout včetně odůvodnění). Na workshopu si ukážeme, jak naplno využít možnosti Google Apps pro efektivní fungování školy."
+  subtype: workshop
+  speakers: [3]
+  language: cz
+  complexity: "Advanced" 
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Vygoogli to :)"
+  description: "Chcete se stát mistry ve vyhledávání? Stačí 45 minut intenzivního workshopu a budete schopni najít pomyslnou “jehlu v kupce digitálního sena”. Profík najde relevantní informace za chvíli, amatérovi vyjedou “miliony” odkazů, nad kterými tráví zbytečně čas. Na komfort “rychle najdu přesně co hledám” se zvyká velice snadno :)"
+  subtype: workshop
+  speakers: [3]
+  language: cz
+  complexity: "Advanced" 
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Administrátor Google Apps? Pohoda a žádný stres."
+  description: "Dostali jste na starost Google Apps? Nebo vás to v blízké době čeká? Na workshopu si ukážeme postupy, které vám usnadní práci. Popíšeme si nejčastější scénáře nasazení a také se naučíme, jak řešit administraci Google Apps pomocí příkazové řádky. Ta vám práci ještě více urychlí. U jedné kávy zavedete do systému všechny nové žáky s parametry, které potřebujete."
+  subtype: workshop
+  speakers: [3]
+  language: cz
+  complexity: "Advanced"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Učebna Google"
+  description: "Učebna Google patří mezi nejvýznamnější aplikace, kterou Google navrhl ve spolupráci s učiteli a studenty, aby ve vyučovacích předmětech mohli snadno komunikovat a společně dosahovat lepších výsledků. Na Masarykově gymnáziu v Příboře využíváme tento nástroj již od samotného startu této služby. Učebna Google nám pomáhá jednoduše vytvářet, organizovat a sbírat úkoly. Velkou předností této aplikace je rovněž možnost rychlejší a snadnější komunikace napříč třídou. Chcete vědět jaké jsou naše již téměř dvouleté zkušenosti?Neváhejte a přijďte se podívat na náš workshop, kde se dozvíte nejen to, jak zmíněný nástroj ve svých hodinách využívat, ale především příklady dobré praxe s touto aplikací."
+  subtype: workshop
+  speakers: [4]
+  language: cz
+  complexity: "Basic/Advanced"
+-
+  id: 006
+  title: "Jak na sociální sítě ve škole?"
+  description: "V dnešním světě hrají sociání sítě již nepostradatelnou roli. Neexistuje snad již nikdo v moderním světě, kdo by neslyšel něco o Facebooku, Twitteru či Google Plus. S tímto faktem však přichází i otázka... je nutné, aby škola rovněž investovala svůj čas a své úsilí do sociálních sítí? Na tuto otázku se vám pokusím odpovědět na mém workshopu."
+  subtype: workshop
+  speakers: [4]
+  language: cz
+  complexity: "Basic"
+-
+  id: 007
+  title: "AppsScript a správa uživatelů v Google Apps"
+  description: "Staráte se ve škole o Google Apps? S AppsScriptem to bude hračka. Ušetříte obrovské množství času při vytváření uživatelů, přiřazovaní do skupin nebo organizačních jednotek. Pomocí skriptů můžete např. také elegantně spravovat Učebnu Google. Délka workshopu: 2 hodiny"
+  subtype: workshop
+  speakers: [6]
+  language: cz
+  complexity: "Advanced"
+-
+  id: 008
+  title: "Vyhledávání obrázků (otevřených výukových zdrojů) a jejich citace"
+  description: "Na Internetu je v současné době dostupné nesmírné množství ilustrací, obrázků a fotografií. Ne všechny však může učitel volně použít ve svých prezentacích, zvlášť pokud tyto sdílí na třídním webu nebo blogu. V průběhu workshopu si ukážeme a vyzkoušíme nejsnadnější cesty, jak vyhledat obrazové zdroje publikované pod otevřenými licencemi (Creative Commons, Public Domain) prostřednictvím klasického vyhledávače Google, ale také pomocí speciálně vytvořených vyhledávačů pro otevřené výukové zdroje (OER). Nezapomeneme na citace vyhledaných zdrojů, které probíhají jako nezbytný druhý krok využívání OER. Podíváme se, která vyhledávací prostředí nám citaci vyrobí sama a která nám jen částečně napoví. Výše uvedené části workshopu se spojí při představení nového modulu Metodického portálu RVP.CZ Obrázky a citace, který umí přeložit zadané klíčové slovo do angličtiny; vyhledat ve více než pěti různých databázích s obrázky, fotografiemi a grafickými zobrazeními; vytvořit plnohodnotnou citaci nalezeného zdroje. Vyhledané OER mohou spolu s citacemi využívat jak učitelé do svých prezentací, tak také žáci a studenti ve svých referátech, portfoliích apod."
+  subtype: workshop
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: cz
+  complexity: "Basic"
+-
+  id: 009
+  title: "Pošta v Gmailu - přehledně, organizovaně, automatizovaně"
+  description: "S poštou dnes zápolí snad každý, mnohdy jí dostáváme více, než jsme schopni udržet v přehlednosti. Jak tedy organizovat svou poštu tak, aby v doručené poště bylo jen opravdu to aktuální, jak využít všech těch štítků, hvězdiček, důležitostí a filtrů? Opravdu zprávy “bydlí” v Doručené poště? A kolik by jich tam tak mělo optimálně být?"
+  subtype: workshop
+  speakers: [8]
+  language: cz
+  complexity: "Basic"
+-
+  id: 010
+  title: "Platforma Chromium/Chrome OS v osobním i školním využití"
+  description: "Ekosystém Chrome prakticky - synchronizovaný prohlížeč, Chrome-book (-box, -bit) a možnosti těchto zařízení. Jak si na starším a pomalém PC/Macu spustit či nainstalovat svižný systém Chromium. Ve workshopu si vyzkoušíme práci v tomto prostředí - ať již na běžném stolním PC, tak i osaháme různá Chrome zařízení."
+  subtype: workshop
+  speakers: [8]
+  language: cz
+  complexity: "Basic"
+-
+  id: 011
+  title: "Fotíme a scanujeme z Androidu do Google Disku"
+  description: "Jak nastavit automatické zálohování fotek pořízených (nejen) z fotoaparátu smartphonu (či jiného zdroje)? Neomezené úložiště lze následně prohlížet ve službě Fotky Google - co to má vše za možnosti? A již jste vyzkoušeli správu takto zálohovaných fotek na Google Disku? Při synchronizaci s lokálním počítačem je hned máte zpět pěkně “u sebe”. K tomu nějaké ty základní i pokročilé možnosti editace cloudovými editory. Taktéž vyzkoušíme skvělou funkci mobilní aplikace Google Disk na Androidu - scannování a OCR - výtečná možnost zálohovat všechny důležité doklady, účtenky atd."
+  subtype: workshop
+  speakers: [8]
+  language: cz
+  complexity: "Basic"
+-
+  id: 012
+  title: "Ušetřete čas se službami Google"
+  description: "Přijďte se podívat a popovídat si, jak nám mohou Google služby ušetřit čas. Hlavně jak efektivně využívat Gmail, ale i kalendář, úkolovník."
+  subtype: workshop
+  speakers: [9]
+  language: cz
+  complexity: "Basic"
+-
+  id: 013
+  title: "Informatické myšlení v dějepise a mediální výchově"
+  description: "Pomocí nástrojů Edpuzzle, ThingLink a Verso/Edmodo se naučíme rychle a efektivně sdílet s žáky výukové materiály (obraz, video, audio) doplněné o pracovní listy/otázky. Nakousneme tak metodiku převrácení třídy, využití viedoher a rozvoje informatického myšlení multipředmětově..."
+  subtype: workshop
+  speakers: [10]
+  language: cz
+  complexity: "Basic"
+-
+  id: 014
+  title: "MOOC aneb když se (nejen) učitel chce učit"
+  description: "Napadlo vás někdy, že byste se chtěli naučit něco nového v oboru, který vás zajímá? Chtěli byste vědět, co si o tom myslí ostatní? Víte, že je možné tohle všechno realizovat z pohodlí vlastní pracovny či dokonce z gauče? Stačí se zapsat do některého z mnoha MOOC kurzů."
+  subtype: workshop
+  speakers: [12]
+  language: cz
+  complexity: "Basic"
+-
+  id: 015
+  title: "iPad jako prezentační nástroj"
+  description: "Účastnici se seznámí s možnostmi jak jednoduše lze propojit tablety Apple iPad (i jiné tablety) s projektorem, případně PC, notebookem. Účastníkům workshopu budou dále představeny možnosti využití tabletů Apple iPad jako prezentačního nástroje a mobilní interaktivní tabule. Učastníkům bude představeno jak jednoduše žákům prezentovat jakýkoliv obsah z webu nebo aplikace. Dále jednoduché prezentování pomocí aplikací Google Slides, Prezi atd. Prakticky si ukážeme jak snadno lez dělat výuková videa přímo ve vyučovací hodině a následné okamžité sdílení materiálu žákům. "
+  subtype: workshop
+  speakers: [13]
+  language: cz
+  complexity: "Basic"
+-
+  id: 016
+  title: "Literární kavárna s tablety"
+  description: "Čtete rádi a máte pocit, že technologie odrazují děti od čtení? Nebo si naopak myslíte, že technologie by mohly ke čtenářství přilákat? Ať už patříte ke kterékoli skupině učitelů, zkusíme si při workshopu ukázat cestu k elektronickým knihám, čtenářským sociálním sítím i aplikacím, které využijeme při rozvíjení čtenářských dovedností nebo jen pro zpestření literárních hodin. A samozřejmě si budete moci zalistovat e-knihou v elektronické čtečce nebo na tabletu a posoudit rozdíly. "
+  subtype: workshop
+  speakers: [14]
+  language: cz
+  complexity: "Basic"
+-
+  id: 017
+  title: "Flubaroo - hodnotíme testy snadno a rychle"
+  description: "Pro zadávání a tvorbu testů můžete využít i Google Formuláře. Tvorba testů v nich je snadná a svižná. S využitím doplňku Flubaroo dokážete testy opravit, ohodnotit a rozeslat hodnocení ještě rychleji.A přesně toto bude obsahem workshopu. Krátce se seznámíme s tvorbou testu pomocí Formuláře a pak si především ukážeme, jak se pracuje s doplňkem Flubaroo a jaké možnosti nám ve škole poskytuje. Práce s doplňkem je vcelku snadná a je proto vhodná i pro ty, kteří s doplňky nemají žádnou zkušenost."
+  subtype: workshop
+  speakers: [15]
+  language: cz
+  complexity: "Basic"
+-
+  id: 018
+  title: "Arduino 101"
+  description: "Potřebujete ovládat otevírání oken ve skleníku podle teploty a vlhkosti? Chcete vědět, jakou máte teplotu v lednici? Hodil by se vám ukazatel vzdálenosti auta od zdi ve vaší garáži? Chcete vědět, kde je vaše auto nebo jízdní kolo? Na všechno toto existují nějaká hotová zařízení, která můžete nějak přiohnout - nebo si můžete postavit vlastní! Nejspíš to nebude lepší, levnější ani hezčí než to, co seženete v obchodě, ale postavíte si to sami přesně na míru a něco se při tom naučíte! Spoustu takových věcí a ještě mnohem víc si postavíte s Arduinem. Stačí jen vědět, jak na to! Půjčíme vám hardware, vy si donesete vlastní laptop a my vám ukážeme, jak na to. Jediné, co musíte umět, je alespoň trochu programovat, optimálně v jazyce, který vychází z C."
+  subtype: workshop
+  speakers: [16]
+  language: cz
+  complexity: "Basic"
+-
+  id: 019
+  title: "Využívejte ve škole zajímavé doplňky pro Google Disk"
+  description: "Doplňky Google umožňují rozšířit základní funkce jednotlivých služeb Google Disku - dokumentů, formulářů, tabulek. Vybrali jsme pro vás ty, které nám, učitelům, usnadní práci ve škole. Během workshopu si vyzkoušíte na příkladech jednotlivé užitečné doplňky - např. automatické vyhodnocování testů, šablony, matematické nástroje, zkracovač URL adres, notový zápis, styly buněk atd."
+  subtype: workshop
+  speakers: [17, 23]
+  language: cz
+  complexity: "Advanced"
+-
+  id: 020
+  title: "Experimenty s 3D fotografií, stereofotografií a využití cardbordu v hodinách"
+  description: "Spolu s kolegyní Petrou Boháčkovou vám předvedeme výrobu 3D fotografie, stereofotografie, díky jednoduchým aplikacím především v platformě iOS, ale určitě najdeme podobné aplikace do platformy Android. Ukážeme vám také experimenty s cardboardem ve výuce, vámi přinesený cardboard vítán."
+  subtype: workshop
+  speakers: [18, 25]
+  language: cz
+  complexity: "Basic"
+-
+  id: 021
+  title: "Není důležité vyhrát, ale nahrát to"
+  description: "O tom, proč je dobré nahrávat přednášky a proč kvůli tomu nezaniknou školy. Co jsou poslední trendy ve světě? A co baví uživatele?"
+  subtype: přednáška
+  speakers: [19]
+  language: cz
+  complexity: "Basic"
+-
+  id: 022
+  title: "Jak se efektivní užívání (nejen) Google Apps stane rutinou na střední škole: žádná teorie, jen příběhy dobré praxe"
+  description: "Střední škola má své žáky podporovat v samostatnosti, kreativitě, sdílení a propojování, ale také rozvíjet jejich schopnosti prezentovat, obhajovat či modelovat. To je ale velké množství úkolů, které se píší v teoretických učebnicích pedagogiky a didaktiky. Je vše v běžné výuce vlastně reálné? Jak to najednou může zvládnout jeden člověk a navíc to dokázat s minimálními časovými nároky, jaká je skutečná realita se stovkami žáků. Díky Google Apps a SlidesLive to nebylo nikdy jednodušší. Přednáška se nebude zabývat tím, co a jak by šlo, co aplikace umí a rozvíjí, ale přinese vám jednu realizovanou aktivitu z praxe za druhou. Dozvíte se něco o videoreflexi žáků, tvorbě krátkých přírodovědných videí, moderním propojení prezentace a videa v aplikaci SlidesLive či rozebereme ověřený způsob sdílených oprav stovek prací měsíčně."
+  subtype: přednáška
+  speakers: [20]
+  language: cz
+  complexity: "Basic"
+-
+  id: 023
+  title: "Digitální portfolio žáků"
+  description: "Používáte ve své výuce různé aplikace? Přemýšlíte jak jednotlivé výstupy zachovat? Vytvořte svým žákům jejich vlastní digitální portfolio. V jednoduchém a přehledném prostředí nabízí tuto možnost aplikace Seesaw, ve které lze ukládat různé druhy interaktivního materiálu. Ukážeme si nejen jak digitální portfolio vytvořit, zapsat žáky, ale i spravovat obsah a dál jej sdílet."
+  subtype: workshop
+  speakers: [21]
+  language: cz
+  complexity: "Basic"
+-
+  id: 024
+  title: "Řízení školy a moderní vzdělávání s využitím Google Apps For Education"
+  description: "Po úvodním představení výhod cloudových služeb v prostředí školy se dále dozvíte o nejčastějších problémech praxe při řízení školy a budou vám v ukázkách předvedeny možnosti řešení pomocí GAFE, např. při zadávání a řešení úkolů, vedení porad, týmové spolupráci s učiteli,  publikování důležitých dokumentů na webových stránkách školy apod. Na přednášku navazuje odpolední workshop Praktické ukázky využití GAFE nejen při řízení školy. "
+  subtype: přednáška
+  speakers: [22]
+  language: cz
+  complexity: "Basic"
+-
+  id: 025
+  title: "Praktické ukázky využití GAFE nejen při řízení školy"
+  description: "Stává se vám, že už celkem víte, co vám GAFE poskytuje, ale nenapadá vás, jak toho účinně využít nejen při řízení školy? Nebo jste úplní začátečníci a jste zvědaví, co vám GAFE může usnadnit? Přijďte se podívat na mé ukázky z praxe, které se mi nejen při řízení školy osvědčily. Ukážu vám, jak jsem si rozčlenila sdílené složky na disku a co sdílím ve složkách Ekonomické, Porady, Učitelé, Žáci a jak mi usnadňují práci sdílené dokumenty, tabulky, prezentace, formuláře či sbírky s návody a tipy pro práci v platformě GAFE. Workshop navazuje praktickými ukázkami na dopolední přednášku Řízení školy a moderní vzdělávání s využitím GAFE. Například v “živém” dokumentu Porad pro učitele vám ukážu, jak poradu ve stejném čase připravujeme v rámci úzkého vedení školy, jak komentujeme dílčí úkoly až do vyřešení s ostatními pedagogy. Jak jsme aktualizovali a nejpve navrhovali změny ve významných dokumentech školy: Školní vzdělávací program, Školní řád, tematické plány a další. Jak pomocí sebehodnotících formulářů pedagogů získávám podklady do sdílené tabulky hodnocení pro výplatu odměn. Jak plánujeme termíny testů žáků a publikujeme je v tabulkách na webových stránkách školy? A co přijímačky, záznamy z hospitací, třídní schůzky, dny otevřených dveří apod.?"
+  subtype: workshop
+  speakers: [22]
+  language: cz
+  complexity: "Basic"
+-
+  id: 026
+  title: "Projekty z regionální historie (nejen) s mobilními telefony"
+  description: "Projektujeme v regionální historii za pomoci technologiíVnímají žáci dějiny a dějepis jako něco odtrženého od jejich života? Nechme je “prošlápnout si” historii jejich domova s pomocí moderních technologií. Podíváme se na využití QR kódů, mapových aplikací, prezentací Google, srovnávacích fotografií a audia při výuce dějin regionu."
+  subtype: workshop
+  speakers: [24]
+  language: cz
+  complexity: "Basic"
+-
+  id: 027
+  title: "LEGO robotická dílna pro mladší (později narozené)"
+  description: "Kdo si hraje (s roboty LEGO WeDo), nezlobí! Workshop umožní návštěvníkům vyzkoušet si prostřednictvím jednoduchých úloh práci s robotickými sadami LEGO WeDo určenými primárně pro žáky nejvyšších ročníků 1. stupně ZŠ. Z kostiček si postavíme model, připojíme senzory, motory, řídící prvky, robota naprogramujeme v ikonickém SW LEGO WeDo a rozpohybujeme ho. Ukážeme si i další možnosti edukační robotiky s podporou produků LEGO. Maximální počet aktivních účastníků (práce ve dvojicích s 1 robotickou sadou): 12, ostatní případní zájemci jen jako diváci."
+  subtype: workshop
+  speakers: [26]
+  language: cz
+  complexity: "Basic"
+-
+  id: 028
+  title: "LEGO robotická dílna pro starší (dříve narozené)"
+  description: "Kdo si hraje (s roboty LEGO Mindstorms NXT), nezlobí! Workshop umožní návštěvníkům vyzkoušet si prostřednictvím jednoduchých úloh práci s robotickými sadami LEGO Mindstorms NXT určenými primárně pro žáky nejvyšších ročníků 2. stupně ZŠ, studenty SŠ a VŠ a technické fandy . Z kostiček si postavíme model, připojíme senzory, motory, řídící programovatelnou kostku, robota naprogramujeme v ikonickém SW LEGO Mindstorms NXT a rozpohybujeme ho. Ukážeme si i další možnosti edukační robotiky s podporou produků LEGO. Maximální počet aktivních účastníků (práce ve dvojicích s 1 robotickou sadou): 16, ostatní případní zájemci jen jako diváci. Není potřeba žádné vlastní ICT vybavení."
+  subtype: workshop
+  speakers: [26]
+  language: cz
+  complexity: "Basic"
+-
+  id: 029
+  title: "Jedno Google konto = spousta různých aplikací"
+  description: "Google i neGoogle on-line aplikace a Android Apps s jedním uživatelským jménem a heslem! Workshop je určen všem, kteří si chtějí vyzkoušet, jak je možné s jedním Google účtem využívat na webu a v operačním systému Android bez neustálého přihlašování a odhlašování, registrace a změny profilů různé googlovské i negooglovské nástroje i aplikace. Ukážeme si a vyzkoušíme především prostředí a aplikace určené pro podporu vzdělávání, a to na počítačích, tabletech a smartphonech (s O. S. Android). Maximální počet aktivních účastníků není omezen (dle dostupného prostoru). Při práci na PC v učebně není potřeba žádné vlastní ICT vybavení, ale pro testování aplikací na O. S. Android je žádoucí mít vlastní tablet nebo smartphone."
+  subtype: workshop
+  speakers: [26]
+  language: cz
+  complexity: "Basic"
+-
+  id: 030
+  title: "Pracujeme, sdílíme a učíme (se) v Google Apps"
+  description: "Google Apps a Google Apps for Education jako nástroj pro efektivní práci, sdílení a učení!! Na workshop jsou zváni všichni zájemci o předvedení a vyzkoušení si variabilního balíku Google Apps a speciální edice Google Apps For Education. Skrze internetový prohlížeč na počítači a aplikace v O. S. Android využijeme Dokumenty, Tabulky, Prezentace, Formuláře, Mapy (a dost možná ještě něco víc) pro vytvoření společného sdíleného produktu. Povíme si také o rozdílech mezi edicemi Google Apps a Google Apps For Education, ukážeme si administrační prostředí edice pro vzdělávání a řekneme si, že přejít ve škole (organizaci / firmě atd.) na komplexní řešení od Googlu je ještě jednodušší, než si lze představit. Maximální počet aktivních účastníků není omezen (dle dostupného prostoru). Při práci na PC v učebně není potřeba žádné vlastní ICT vybavení, ale pro testování aplikací na O. S. Android je žádoucí mít vlastní tablet nebo smartphone."
+  subtype: workshop
+  speakers: [26]
+  language: cz
+  complexity: "Basic"

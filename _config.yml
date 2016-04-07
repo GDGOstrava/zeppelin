@@ -48,8 +48,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "GEGFest"}
  - {permalink: "/blog/", text: "Novinky"}
-# - {permalink: "/schedule/", text: "Program"}
-# - {permalink: "/speakers/", text: "Řečníci"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/tym/", text: "Tým"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/OR8FFL", text: "Registrujte se"}
