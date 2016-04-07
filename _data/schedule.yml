@@ -9,8 +9,8 @@
   timeslots:
     - {
         startTime: "",
-        endTime: "1",
-        sessionIds: [004, 002, 001, 006]
+        endTime: "",
+        sessionIds: [028, 002, 001, 006]
     }
     - {
         startTime: "",
@@ -35,7 +35,7 @@
     - {
         startTime: "",
         endTime: "",
-        sessionIds: [028, 012, 020, 404]
+        sessionIds: [004, 012, 020, 404]
     }
     - {
         startTime: "",
