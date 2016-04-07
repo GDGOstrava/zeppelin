@@ -176,11 +176,11 @@ socialLinks:
  - {link: "https://www.facebook.com/gbgprague/", icon: "facebook"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Odkazy"
   links:
    - {link: "http://www.gug.cz/cs/gbg/skupiny/prague", text: "GBG Prague"}
  -
-  title: "Contacts"
+  title: "Kontakty"
   links:
    - {link: "mailto:gbgprague@gug.cz", text: "gbgprague@gug.cz"}
  -
