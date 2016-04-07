@@ -1,47 +1,18 @@
 ---
 layout: post
-title:  "Novinky brezen"
+title:  "Novinky jsou tady"
 date:   2016-03-29 09:00:00
 isStaticPost: false
 ---
 
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+Není to tak dávno, co GEGfest představil svůj nový web. Jsme rádi, že k dnešnímu dni můžeme přidat další součást tohoto webu. Další sekci NOVINKY.
 
-#### Presenters – who should speak at the DevFest Conference?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+#### Na co se zde můžete těšit?
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+* Informace o připravovaných přednáškách;
+* Novinky z workshopů;
+* Důležité informace o gegfestu;
+* ...a mnohem více;
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+Váš gegfest tým :)

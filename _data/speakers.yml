@@ -1,67 +1,147 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Radovan"
+  surname: "Jansa"
+  company: "GEG Novojičínsko"
+  title: "učitel, lektor Google Apps, veteran ORG GUG.cz"
+  bio: "Radovan pracuje na Gymnáziu v Novém Jičíně, kde v roce 2008 zavedl Google Apps. Od té chvíle se stal velkým propagátorem Google technologií ve výuce, spoluzaložil GEG Novojičínsko a stal se veterán organizátorem GUG.cz. Své zkušenosti rád předává dál, takže ho uvidíte na edu konferencích, nebo na školeních, které nabízí pro učitele po celé republice. Velkým koničkem je cestování a poznávání života v odlišných kulturách."
+  thumbnailUrl: jansa.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/RadovanJansa"}
+    - {name: "linkedin", link: "http://cz.linkedin.com/in/radovanjansa"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Petr"
+  surname: "Caloň"
+  company: "GEG Novojičínsko"
+  title: "učitel, lektor Google Apps"
+  bio: "Petr pracuje na Masarykově gymnáziu v Příboře, kde v roce 2012 zavedl Google Apps pro vzdělávání. Na této škole rovněž inicioval vytvoření první chromebookové učebny v České republice. Profesně se zaměřuje na výuku dějepisu, základů společenských věd a zeměpisu. Je spoluzakladatelem GEG Novojičínsko a velkým nadšencem chromebooků. Můžete se s ním setkat na mnoha IT konferencích věnovaných Google technologiím a cloudu. Jeho velkým koníčkem je rodina a cestování."
+  thumbnailUrl: calon.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/petrcalon"}
+    - {name: "twitter", link: "https://twitter.com/CalonPetr"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Lenka"
+  surname: "Urbanová"
+  company: "GEG ČR"
+  title: "lektorka, konzultantka, spoluzakladatelka GUG.cz, veteran org GUG.cz"
+  bio: "Lenka je lektorka a konzultantka. Říká o sobě, že je „lingvistka, kterou přetáhly počítače”, a že „sbratřuje lidi a technologie“. Zabývá se metodikou e-learningu a online učení, s důrazem na spolupráci, sdílení a otevřené vzdělávání. Participuje na projektech zaměřených na technologie ve školách, na cloudové aplikace, mobilní zařízení a na řízení týmů a projektů pomocí online nástrojů. Ráda moderuje diskuze a webináře. Potřebu propojování, spolupráce a sdílení naplňuje ve znalostní komunitě učitelů - v GEG ČR (Google EDU Group ČR). Dle ankety provedené mezi GEGery tam má překrásnou roli: poňoukávatel, (ďábel) našeptávač."
+  thumbnailUrl: urbanova.png
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "linkedin", link: "http://cz.linkedin.com/in/lenkaurbanova"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+LenkaUrbanová/"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Tomáš"
+  surname: "Velecký"
+  company: "SW Developer v Tieto (Google for Work)"
+  bio: "Tomáš pracuje ve společnosti Tieto jako vývojář v Google for Work týmu, kde s kolegy řeší neřešitelné problémy za vydatné pomoci AppEngine, AppsScript, NodeJS, burgerů a piva. Mimo jiné dělá přednášky na témata týkajících se Google služeb a technologií."
+  thumbnailUrl: velecky.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/tomas-velecky/4/637/934"}
+    - {name: "google-plus", link: "plus.google.com/+TomášVelecký/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Pavlína"
+  surname: "Hublová"
+  company: "GEG Učte s námi"
+  title: "lektorka"
+  bio: "Spoluzakladatelka GEG Učte s námi, PEPOUŠ, vedoucí resortního úkolu pro správu a rozvoj Metodického portálu RVP.CZ, lektorka činnostního učení."
+  thumbnailUrl: hublova.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pavl%C3%ADna-hublov%C3%A1-40b66157"}
+    - {name: "google-plus", link: "https://plus.google.com/+Pavl%C3%ADnaHublov%C3%A1"}
+    - {name: "twitter", link: "https://twitter.com/pavkahu"}
+    - {name: "site", link: "http://inapadnik.blogspot.cz/"}
+-
+  id: 8
+  name: "Jiří"
+  surname: "Leipert"
+  company: "GEG Praha"
+  title: "učitel, lektor Google Apps"
+  bio: "Jiří pracuje jako odborný asistent na katedře informatiky na Pedagogické fakultě Univerzity Karlovy v Praze. Profesně se zaměřuje na cloud learning a elementaristiku práce s elektronickými informacemi. Je spoluzakladatelem GEG Praha a nadšencem pro využívání ICT prostředků při vzdělávání i v osobním životě. Jeho velkým koníčkem je cestování a průvodcování poznávacích zájezdů."
+  thumbnailUrl: leipert.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JiriLeipert"}
+    - {name: "site", link: "http://www.leipert.cz/"}
+-
+  id: 9
+  name: "Libor"
+  surname: "Olbrich"
+  company: "GEG FM"
+  title: "Učitel,lektor, spoluzakladatel GEG FM, SbirkaPrikladu.EU"
+  bio: "Libor Olbrich učí na PrimMat - SSŠP ve Frýdku-Místku, má rád, školí a propaguje Google Apps, Open Source a online služby. Věří ve spolupráci, sdílení a komunitu. Spoluzaložil a stará se o skupinu GEG FM a webovou sbírku příkladů z matematiky. Rád čte a chodí - po horách a přednáškách zajímavých lidí."
+  thumbnailUrl: olbrich.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "linkedin", link: "www.linkedin.com/in/liborolbrich"}
+    - {name: "twitter", link: "twitter.com/libol"}
+    - {name: "site", link: "www.sbirkaprikladu.eu"}
+-
+  id: 10
+  name: "Martin"
+  surname: "Vonášek"
+  company: "GEG FM"
+  title: "učitel"
+  bio: "Učí na střední škole dějepis a mediální výchovu jako samostatný předmět. Společně se studenty usiluje o nabourání zažitých představ a stereotypů v oblasti dějin a médií. Snaží se různými způsoby rozvíjet kritické myšlení a squatovat moderní technologie v rámci výuky :) Pomáhá s GEG FM a má rád filmové kluby, trička A2 a časopis Cinepur…"
+  thumbnailUrl: vonasek.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MartinVon%C3%A1%C5%A1ek"}
+    - {name: "twitter", link: "https://cz.linkedin.com/in/martin-von%25C3%25A1%25C5%25A1ek-27290317"}
+-
+  id: 11
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: leipert.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JiriLeipert"}
+    - {name: "site", link: "http://www.leipert.cz/"}
+-
+  id: 12
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: leipert.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JiriLeipert"}
+    - {name: "site", link: "http://www.leipert.cz/"}
+-
+  id: 13
+  name: "Karel"
+  surname: "Moric"
+  company: "GEG My jsme Ludgeřovice"
+  title: "ředitel ZŠ a MŠ Ludgeřovice"
+  bio: "Pracuje jako ředitel na ZŠ a MŠ Ludgeřovice a stojí za zrodem GEG - My jsme Ludgeřovice. Zajímá se o ICT techniku obecně a rád jí zavádí do výuku. Naše škola je proto prošpikovaná technologiemi. Má rád nejen Google, ale také Apple :-)"
+  thumbnailUrl: moric.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "twitter", link: "twitter.com/karel.moric"}
