@@ -69,12 +69,16 @@ aboutBlock:
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
+aboutTitle2: "O BizFestu"
+aboutBlock2:
+ - {text: "Zaměřeno na růst, podpořeno technologiemi. </br>Od lidí z businessu pro lidi z businessu. </br>Maximální zapojení s minimem buzzwordů." }
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "účstníků", detail: "from everywhere"}
- - {count: "20", specialCharacter: "+", info: "workshopů", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "paralelní programy", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "účastníků", detail: "z malých a středních firem"}
+ - {count: "15", specialCharacter: "+", info: "workshopů", detail: "na jednom místě"}
+ - {count: "3", specialCharacter: "", info: "paralelní programy", detail: "networking a odpočinková zóna"}
 
 # Latest News Block
 latestNewsTitle: "Novinky"
@@ -108,7 +112,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Impact Hub Praha"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Inspirativní prostor pro setkávání", "Meeting rooms", "Chill out zóna"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -183,10 +187,6 @@ footerBlocks:
   title: "Kontakty"
   links:
    - {link: "mailto:gbgprague@gug.cz", text: "gbgprague@gug.cz"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"

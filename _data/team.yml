@@ -3,25 +3,25 @@
   name: "Honza"
   surname: "Slavík"
   title: "Jedi"
-  thumbnailUrl: honzaslavik.png
+  thumbnailUrl: honzaslavik.jpg
   team: true
   ribbon: 
     - {abbr: "GBG", title: "Google Business Group"}
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+HonzaSlav%C3%ADk/posts"}
     - {name: "twitter", link: ""}
     - {name: "site", link: ""}
 - 
   id: 1
   name: "Filip"
   surname: "Goszler"
-  title: "Ninjaaaaa"
+  title: "Ninja"
   thumbnailUrl: filipgoszler.png
   team: true
   ribbon: 
     - {abbr: "GBG", title: "Google Business Group"}
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+FilipGoszler/posts"}
 
 - 
   id: 2
@@ -34,9 +34,9 @@
     - {abbr: "GDG", title: "Google Developer Group"}
     - {abbr: "GBG", title: "Google Business Group"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "site", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcelLaza1/posts"}
+    - {name: "twitter", link: "https://twitter.com/lazamarcel"}
+    - {name: "site", link: "http://www.marcellaza.com"}
 - 
   id: 4
   name: "Dmytro"
