@@ -9,8 +9,10 @@
     - {abbr: "GBG", title: "Google Business Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+HonzaSlav%C3%ADk/posts"}
-    - {name: "twitter", link: ""}
-    - {name: "site", link: ""}
+    - {name: "twitter", link: "https://twitter.com/honza_slavik"}
+    - {name: "site", link: "http://www.honzaslavik.com/"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/honzaslavik"}
+
 - 
   id: 1
   name: "Filip"
@@ -22,6 +24,7 @@
     - {abbr: "GBG", title: "Google Business Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+FilipGoszler/posts"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/filipgoszler/en"}
 
 - 
   id: 2
@@ -37,14 +40,16 @@
     - {name: "google-plus", link: "https://plus.google.com/+MarcelLaza1/posts"}
     - {name: "twitter", link: "https://twitter.com/lazamarcel"}
     - {name: "site", link: "http://www.marcellaza.com"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: .jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/marcellaza"}
+
+#- 
+#  id: 4
+#  name: "Dmytro"
+#  surname: "Danylyk"
+#  title: "Android Program Committee"
+#  thumbnailUrl: .jpg
+#  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: ""}
+#    - {name: "twitter", link: ""}
+#    - {name: "github", link: ""}

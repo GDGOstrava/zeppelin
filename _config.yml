@@ -71,7 +71,7 @@ aboutBlock:
 
 aboutTitle2: "O BizFestu"
 aboutBlock2:
- - {text: "Zaměřeno na růst, podpořeno technologiemi. </br>Od lidí z businessu pro lidi z businessu. </br>Maximální zapojení s minimem buzzwordů." }
+ - {text: "Zaměřeno na růst, podpořeno technologiemi. </br>Festival od lidí z businessu pro lidi z businessu. </br>Maximum workshopů a minimum teorie." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -198,7 +198,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "O nás"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Jsme parta early adopterů, inovátorů kolem internetu, technologií a jsme sdruženi v google user group ČR, kde pro uživatele, lidi z vývoje, byznysu i vzdělávání organizujeme akce různých formátů. Po organizaci loňského Devfestu jsme se rozhodli uspořádat festival byznys charakteru, kde se zaměříme na růst firem podpořen moderními technologiemi."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
