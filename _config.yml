@@ -47,10 +47,10 @@ navigationLinks:
  #- {permalink: "/schedule/", text: "Program"}
  #- {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/team/", text: "Tým"}
-#bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+bottomNavigationLinks:
+ - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
+rightNavigationButtons:
+ - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -58,9 +58,9 @@ heroTitle: "GBG BizFest <typeout> 2016"
 eventDate: "11. června, 2016"
 typeoutTextValues: '"", "Season", "Prague", "Czech Republic"'
 typeoutFallback: "Season"
-#heroButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+heroButtons:
+ - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
+ - {permalink: "https://goo.gl/jXzIIs", text: "Chci se registrovat"}
 
 # About Block
 aboutTitle: "O BizFestu"
