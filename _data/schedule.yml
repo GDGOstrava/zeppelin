@@ -1,5 +1,41 @@
 - 
   date: "2016-05-14"
+  dateReadable: "Dopolední program"
+  tracks: 
+    - {title: "Přednášky", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "09:30",
+        endTime: "09:40",
+        sessionIds: [032]
+    }
+    - {
+        startTime: "09:40",
+        endTime: "10:00",
+        sessionIds: [024]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [031]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "11:00",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [022]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "11:50",
+        sessionIds: [021]
+    }
+- 
+  date: "2016-05-14"
   dateReadable: "Seznam workshopů"
   tracks: 
     - {title: "Hardware | Admin", color: "#90be4e"}
@@ -25,7 +61,7 @@
     - {
         startTime: "",
         endTime: "",
-        sessionIds: [018, 002, 015, 016]
+        sessionIds: [018, 030, 015, 016]
     }
     - {
         startTime: "",
@@ -52,11 +88,7 @@
         endTime: "",
         sessionIds: [404, 029, 404, 404]
     }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [404, 030, 404, 404]
-    }
+
 
 
 

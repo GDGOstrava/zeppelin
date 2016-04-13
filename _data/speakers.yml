@@ -50,7 +50,7 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/pub/tomas-velecky/4/637/934"}
-    - {name: "google-plus", link: "plus.google.com/+TomášVelecký/"}
+    - {name: "google-plus", link: "https://plus.google.com/+TomášVelecký"}
 - 
   id: 7
   name: "Pavlína"
@@ -93,9 +93,9 @@
   ribbon:
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
-    - {name: "linkedin", link: "www.linkedin.com/in/liborolbrich"}
-    - {name: "twitter", link: "twitter.com/libol"}
-    - {name: "site", link: "www.sbirkaprikladu.eu"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/liborolbrich"}
+    - {name: "twitter", link: "https://twitter.com/libol"}
+    - {name: "site", link: "http://www.sbirkaprikladu.eu/"}
 -
   id: 10
   name: "Martin"
@@ -117,7 +117,7 @@
   company: "GEG Strakonicko"
   title: "učitelka"
   bio: "Libuše pracuje jako ekonom na Gymnáziu Strakonice. Kromě číslíček ji zajímají také ICT technologie, takže si občas hraje i na správce počítačové sítě. I když, jak se často říká, nejvíce problémů s počítači je mezi židlí a klávesnicí. V roce 2015 se poprvé zúčastnila GEGfestu 2015 a to ji přivedlo ke většímu zájmu o Google aplikace a tak společně s kolegy v roce 2015 založili GEG Strakonicko. Jejím velkým koníčkem je rodina, cestování a sportovní aktivity."
-  thumbnailUrl: pribylova.jpg
+  thumbnailUrl: pribylovaa.jpg
   rockstar: true
   ribbon:
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
@@ -146,7 +146,7 @@
   ribbon:
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
-    - {name: "twitter", link: "twitter.com/karel.moric"}
+    - {name: "twitter", link: "https://twitter.com/karel_moric"}
 -
   id: 14
   name: "Ludmila"
@@ -177,7 +177,7 @@
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
     - {name: "google-plus", link: "https://goo.gl/AEDdML"}
-    - {name: "site", link: "www.cojsemvyzkousela.cz"}
+    - {name: "site", link: "http://www.cojsemvyzkousela.cz/"}
     - {name: "twitter", link: "https://twitter.com/JitkaRa"}
     - {name: "site", link: "http://www.uctesnami.cz/"}
 -
@@ -267,7 +267,7 @@
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
     - {name: "google-plus", link: "http://bit.do/martinkova-google-profil"}
-    - {name: "site", link: "www.gyri.cz"}
+    - {name: "site", link: "http://www.gyri.cz"}
 -
   id: 23
   name: "Filip"
@@ -320,6 +320,18 @@
   ribbon:
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
-    - {name: "google-plus", link: "google.com/+DanielTochacek"}
+    - {name: "google-plus", link: "https://plus.google.com/+DanielTochacek"}
     - {name: "site", link: "http://www.tochy.info/"}
 -
+  id: 27
+  name: "Daniel"
+  surname: "Franc"
+  company: "Google"
+  title: "Globální programový manažer pro komunity"
+  bio: "Ještě než se stal Googlerem, působil v řadě komunit a patří mezi zakladatele GUG.cz, který jako první na světě začal propojovat lidi se zájmem o Googlí technologie. Nadšenec do vzdělávání, působil jako lektor firemních a učitelských kurzů, ale třeba i jako zážitkový pedagog nebo autor jedné z prvních webových e-learningových platforem. V současnosti v dresu Google pomáhá technicky orientovaným komunitám po celém světě propojovat lidi a společně se učit."
+  thumbnailUrl: francd.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danfranc"}
+-
+

@@ -249,3 +249,17 @@
   speakers: [26]
   language: cz
   complexity: "Basic"
+-
+  id: 031
+  title: "Automatizace změní svět: jak se to týká vzdělávání?"
+  description: ""
+  subtype: přednáška
+  speakers: [27]
+  language: cz
+-
+  id: 032
+  title: "Úvodní slovo"
+  description: ""
+  subtype: přednáška
+  speakers: [5]
+  language: cz
