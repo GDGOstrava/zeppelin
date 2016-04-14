@@ -1,0 +1,69 @@
+application: bizfestgug
+version: praha2016-biz
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /
+  static_files: index.html
+  upload: index\.html$
+
+- url: /team/
+  static_files: team/index.html
+  upload: index\.html$
+
+- url: /speakers/
+  static_files: speakers/index.html
+  upload: index\.html$
+
+- url: /women-techmakers/
+  static_files: women-techmakers/index.html
+  upload: index\.html$
+
+- url: /businessbuild/
+  static_files: businessbuild/index.html
+  upload: index\.html$
+
+- url: /geekfun/
+  static_files: geekfun/index.html
+  upload: index\.html$
+
+- url: /logistics/
+  static_files: logistics/index.html
+  upload: index\.html$
+
+- url: /schedule/
+  static_files: schedule/index.html
+  upload: index\.html$
+
+- url: /(.+)/
+  static_files: index.html
+  upload: .+/index\.html$
+
+- url: /cod/
+  static_files: cod/index.html
+  upload: index\.html$
+
+- url: /blog/(.*)$
+  static_files: blog/(.*)$
+  upload: .*$
+
+- url: /assets/(.*)
+  static_files: assets/(.*)
+  upload: index\.html$
+
+- url: /js/(.*)
+  static_files: js/\1
+  upload : js/.*
+  expiration: "90d"
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: \1
+  upload: .*\.(gif|png|jpg)$
+  expiration: "90d"
+
+- url: /(.*)$
+  static_files: \1
+  upload: .*$
+  expiration: "30m"
