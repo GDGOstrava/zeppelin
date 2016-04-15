@@ -36,7 +36,7 @@
     }
 - 
   date: "2016-05-14"
-  dateReadable: "Seznam workshopů"
+  dateReadable: "Seznam odpoledních workshopů"
   tracks: 
     - {title: "Hardware | Admin", color: "#90be4e"}
     - {title: "Nic než Google", color: "#03a9f4"}
@@ -87,6 +87,11 @@
         startTime: "",
         endTime: "",
         sessionIds: [404, 029, 404, 404]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "",
+        sessionIds: [500]
     }
 
 

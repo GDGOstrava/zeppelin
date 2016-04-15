@@ -10,6 +10,11 @@
   place: ""
   service: true
 -
+  id: 500
+  title: "Afterpárty"
+  place: ""
+  service: true
+-
   id: 001
   title: "Nástroje Google ve výuce zeměpisu a ZSV"
   description: "Slyšeli jste někdy o nástrojích jako Moje Mapy, Public Data Explorer, Trends, Zprávy, Výpravy Street View nebo Fonts? Na první pohled nesourodý mix Google služeb můžeme skvěle využít v hodinách zeměpisu i ZSV. Na praktických postupech si ukážeme, jak do výuky zapojit moderní online technologie, které nám umožní obohatit výuku, sledovat aktuální trendy, hledat souvislosti a lépe vtáhnout studenty do výuky. Všechny příklady jsou postaveny na otevřených výukových zdrojích."
