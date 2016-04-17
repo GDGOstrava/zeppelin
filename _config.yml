@@ -53,7 +53,7 @@ rightNavigationButtons:
  - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "GBG BizFest <typeout> 2016"
 eventDate: "11. června, 2016"
 typeoutTextValues: '"", "Season", "Prague", "Czech Republic"'
