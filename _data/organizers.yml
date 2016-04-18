@@ -6,3 +6,4 @@
   group: "Ve spolupráci"
   elements: 
     - {name: "GUG.cz", description: "GUG.cz", link: "http://www.gug.cz/cs", imageUrl: "logo-gug.png"}
+    - {name: "Google CZ", description: "Google CZ", link: "http://www.google.cz", imageUrl: "googlelogo.png"}
