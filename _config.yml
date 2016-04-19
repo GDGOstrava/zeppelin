@@ -55,6 +55,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.png"
 heroTitle: "GBG BizFest <typeout> 2016"
+heroPerex: "Vidím město veliké, jehož sláva hvězd se dotýká."
 eventDate: "11. června, 2016"
 typeoutTextValues: '"", "Season", "Prague", "Czech Republic"'
 typeoutFallback: "Season"
