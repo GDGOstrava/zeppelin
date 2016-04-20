@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Odpolení program"
+title:  "Odpolední program"
 date:   2016-04-15 09:00:00
 isStaticPost: false
 ---

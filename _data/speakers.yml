@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 2
   name: "Radovan"
   surname: "Jansa"
   company: "GEG Novojičínsko"
@@ -13,7 +13,7 @@
     - {name: "twitter", link: "https://twitter.com/RadovanJansa"}
     - {name: "linkedin", link: "http://cz.linkedin.com/in/radovanjansa"}
 - 
-  id: 4
+  id: 3
   name: "Petr"
   surname: "Caloň"
   company: "GEG Novojičínsko"
@@ -27,7 +27,7 @@
     - {name: "linkedin", link: "https://cz.linkedin.com/in/petrcalon"}
     - {name: "twitter", link: "https://twitter.com/CalonPetr"}
 - 
-  id: 5
+  id: 4
   name: "Lenka"
   surname: "Urbanová"
   company: "GEG ČR"
@@ -40,6 +40,17 @@
   social: 
     - {name: "linkedin", link: "http://cz.linkedin.com/in/lenkaurbanova"}
     - {name: "google-plus", link: "https://plus.google.com/u/0/+LenkaUrbanová/"}
+-
+  id: 5
+  name: "Daniel"
+  surname: "Franc"
+  company: "Google"
+  title: "Globální programový manažer pro komunity"
+  bio: "Ještě než se stal Googlerem, působil v řadě komunit a patří mezi zakladatele GUG.cz, který jako první na světě začal propojovat lidi se zájmem o Googlí technologie. Nadšenec do vzdělávání, působil jako lektor firemních a učitelských kurzů, ale třeba i jako zážitkový pedagog nebo autor jedné z prvních webových e-learningových platforem. V současnosti v dresu Google pomáhá technicky orientovaným komunitám po celém světě propojovat lidi a společně se učit."
+  thumbnailUrl: francd.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/danfranc"}
 - 
   id: 6
   name: "Tomáš"
@@ -322,16 +333,5 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DanielTochacek"}
     - {name: "site", link: "http://www.tochy.info/"}
--
-  id: 27
-  name: "Daniel"
-  surname: "Franc"
-  company: "Google"
-  title: "Globální programový manažer pro komunity"
-  bio: "Ještě než se stal Googlerem, působil v řadě komunit a patří mezi zakladatele GUG.cz, který jako první na světě začal propojovat lidi se zájmem o Googlí technologie. Nadšenec do vzdělávání, působil jako lektor firemních a učitelských kurzů, ale třeba i jako zážitkový pedagog nebo autor jedné z prvních webových e-learningových platforem. V současnosti v dresu Google pomáhá technicky orientovaným komunitám po celém světě propojovat lidi a společně se učit."
-  thumbnailUrl: francd.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danfranc"}
 -
 

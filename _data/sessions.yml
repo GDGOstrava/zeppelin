@@ -19,7 +19,7 @@
   title: "Nástroje Google ve výuce zeměpisu a ZSV"
   description: "Slyšeli jste někdy o nástrojích jako Moje Mapy, Public Data Explorer, Trends, Zprávy, Výpravy Street View nebo Fonts? Na první pohled nesourodý mix Google služeb můžeme skvěle využít v hodinách zeměpisu i ZSV. Na praktických postupech si ukážeme, jak do výuky zapojit moderní online technologie, které nám umožní obohatit výuku, sledovat aktuální trendy, hledat souvislosti a lépe vtáhnout studenty do výuky. Všechny příklady jsou postaveny na otevřených výukových zdrojích."
   subtype: workshop
-  speakers: [3]
+  speakers: [2]
   language: cz
   complexity: "Basic" 
 -
@@ -27,7 +27,7 @@
   title: "Škola bez papírů s Google Apps"
   description: "Uvažujete o systému, který vám ušetří práci, čas a navíc omezí zbytečnou spotřebu papíru? S pomocí Google Apps a několika rozšíření můžete papírovou agendu převést do online prostředí. Cestovní příkazy, žádosti o uvolnění z vyučování a další desítky příkladů můžete s kolegy, žáky nebo rodiči řešit online včetně elektronického podepsání žádostí a řízení běhu dokumentů (po odeslání rodičem jde žádost automaticky třídnímu učiteli, po jeho online podepsání se sama přepošle např. řediteli školy, který ji může online podepsat nebo zamítnout včetně odůvodnění). Na workshopu si ukážeme, jak naplno využít možnosti Google Apps pro efektivní fungování školy."
   subtype: workshop
-  speakers: [3]
+  speakers: [2]
   language: cz
   complexity: "Advanced" 
 -
@@ -35,7 +35,7 @@
   title: "Vygoogli to :)"
   description: "Chcete se stát mistry ve vyhledávání? Stačí 45 minut intenzivního workshopu a budete schopni najít pomyslnou “jehlu v kupce digitálního sena”. Profík najde relevantní informace za chvíli, amatérovi vyjedou “miliony” odkazů, nad kterými tráví zbytečně čas. Na komfort “rychle najdu přesně co hledám” se zvyká velice snadno :)"
   subtype: workshop
-  speakers: [4]
+  speakers: [3]
   language: cz
   complexity: "Advanced" 
 -
@@ -43,7 +43,7 @@
   title: "Administrátor Google Apps? Pohoda a žádný stres."
   description: "Dostali jste na starost Google Apps? Nebo vás to v blízké době čeká? Na workshopu si ukážeme postupy, které vám usnadní práci. Popíšeme si nejčastější scénáře nasazení a také se naučíme, jak řešit administraci Google Apps pomocí příkazové řádky. Ta vám práci ještě více urychlí. U jedné kávy zavedete do systému všechny nové žáky s parametry, které potřebujete."
   subtype: workshop
-  speakers: [3]
+  speakers: [2]
   language: cz
   complexity: "Advanced"
 -
@@ -51,7 +51,7 @@
   title: "Učebna Google"
   description: "Učebna Google patří mezi nejvýznamnější aplikace, kterou Google navrhl ve spolupráci s učiteli a studenty, aby ve vyučovacích předmětech mohli snadno komunikovat a společně dosahovat lepších výsledků. Na Masarykově gymnáziu v Příboře využíváme tento nástroj již od samotného startu této služby. Učebna Google nám pomáhá jednoduše vytvářet, organizovat a sbírat úkoly. Velkou předností této aplikace je rovněž možnost rychlejší a snadnější komunikace napříč třídou. Chcete vědět jaké jsou naše již téměř dvouleté zkušenosti?Neváhejte a přijďte se podívat na náš workshop, kde se dozvíte nejen to, jak zmíněný nástroj ve svých hodinách využívat, ale především příklady dobré praxe s touto aplikací."
   subtype: workshop
-  speakers: [4]
+  speakers: [3]
   language: cz
   complexity: "Basic/Advanced"
 -
@@ -59,7 +59,7 @@
   title: "Jak na sociální sítě ve škole?"
   description: "V dnešním světě hrají sociání sítě již nepostradatelnou roli. Neexistuje snad již nikdo v moderním světě, kdo by neslyšel něco o Facebooku, Twitteru či Google Plus. S tímto faktem však přichází i otázka... je nutné, aby škola rovněž investovala svůj čas a své úsilí do sociálních sítí? Na tuto otázku se vám pokusím odpovědět na mém workshopu."
   subtype: workshop
-  speakers: [4]
+  speakers: [3]
   language: cz
   complexity: "Basic"
 -
@@ -259,12 +259,12 @@
   title: "Automatizace změní svět: jak se to týká vzdělávání?"
   description: ""
   subtype: přednáška
-  speakers: [27]
+  speakers: [5]
   language: cz
 -
   id: 032
   title: "Úvodní slovo"
   description: ""
   subtype: přednáška
-  speakers: [5]
+  speakers: [4]
   language: cz
