@@ -21,7 +21,7 @@
   subtype: workshop
   speakers: [2]
   language: cz
-  complexity: "Basic" 
+  complexity: "Základní" 
 -
   id: 002
   title: "Škola bez papírů s Google Apps"
@@ -29,7 +29,7 @@
   subtype: workshop
   speakers: [2]
   language: cz
-  complexity: "Advanced" 
+  complexity: "Pokročilá" 
 -
   id: 003
   title: "Vygoogli to :)"
@@ -37,7 +37,7 @@
   subtype: workshop
   speakers: [3]
   language: cz
-  complexity: "Advanced" 
+  complexity: "Pokročilá" 
 -
   id: 004
   title: "Administrátor Google Apps? Pohoda a žádný stres."
@@ -45,7 +45,7 @@
   subtype: workshop
   speakers: [2]
   language: cz
-  complexity: "Advanced"
+  complexity: "Pokročilá"
 -
   id: 005
   title: "Učebna Google"
@@ -53,7 +53,7 @@
   subtype: workshop
   speakers: [3]
   language: cz
-  complexity: "Basic/Advanced"
+  complexity: "Základní/Pokročilá"
 -
   id: 006
   title: "Jak na sociální sítě ve škole?"
@@ -61,7 +61,7 @@
   subtype: workshop
   speakers: [3]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 007
   title: "AppsScript a správa uživatelů v Google Apps"
@@ -69,7 +69,7 @@
   subtype: workshop
   speakers: [6]
   language: cz
-  complexity: "Advanced"
+  complexity: "Pokročilá"
 -
   id: 008
   title: "Vyhledávání obrázků (otevřených výukových zdrojů) a jejich citace"
@@ -77,7 +77,7 @@
   subtype: workshop
   speakers: [7]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 009
   title: "Pošta v Gmailu - přehledně, organizovaně, automatizovaně"
@@ -85,7 +85,7 @@
   subtype: workshop
   speakers: [8]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 010
   title: "Platforma Chromium/Chrome OS v osobním i školním využití"
@@ -93,7 +93,7 @@
   subtype: workshop
   speakers: [8]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 011
   title: "Fotíme a scanujeme z Androidu do Google Disku"
@@ -101,7 +101,7 @@
   subtype: workshop
   speakers: [8]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 012
   title: "Ušetřete čas se službami Google"
@@ -109,7 +109,7 @@
   subtype: workshop
   speakers: [9]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 013
   title: "Informatické myšlení v dějepise a mediální výchově"
@@ -117,7 +117,7 @@
   subtype: workshop
   speakers: [10]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 014
   title: "MOOC aneb když se (nejen) učitel chce učit"
@@ -125,7 +125,7 @@
   subtype: workshop
   speakers: [12]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 015
   title: "iPad jako prezentační nástroj"
@@ -133,7 +133,7 @@
   subtype: workshop
   speakers: [13]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 016
   title: "Literární kavárna s tablety"
@@ -141,7 +141,7 @@
   subtype: workshop
   speakers: [14]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 017
   title: "Flubaroo - hodnotíme testy snadno a rychle"
@@ -149,7 +149,7 @@
   subtype: workshop
   speakers: [15]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 018
   title: "Arduino 101"
@@ -157,7 +157,7 @@
   subtype: workshop
   speakers: [16]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 019
   title: "Využívejte ve škole zajímavé doplňky pro Google Disk"
@@ -173,7 +173,7 @@
   subtype: workshop
   speakers: [18, 25]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 021
   title: "Není důležité vyhrát, ale nahrát to"
@@ -181,7 +181,7 @@
   subtype: přednáška
   speakers: [19]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 022
   title: "Jak se efektivní užívání (nejen) Google Apps stane rutinou na střední škole: žádná teorie, jen příběhy dobré praxe"
@@ -189,7 +189,7 @@
   subtype: přednáška
   speakers: [20]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 023
   title: "Digitální portfolio žáků"
@@ -197,7 +197,7 @@
   subtype: workshop
   speakers: [21]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 024
   title: "Řízení školy a moderní vzdělávání s využitím Google Apps For Education"
@@ -205,7 +205,7 @@
   subtype: přednáška
   speakers: [22]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 025
   title: "Praktické ukázky využití GAFE nejen při řízení školy"
@@ -213,7 +213,7 @@
   subtype: workshop
   speakers: [22]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 026
   title: "Projekty z regionální historie (nejen) s mobilními telefony"
@@ -221,7 +221,7 @@
   subtype: workshop
   speakers: [24]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 027
   title: "LEGO robotická dílna pro mladší (později narozené)"
@@ -229,7 +229,7 @@
   subtype: workshop
   speakers: [26]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 028
   title: "LEGO robotická dílna pro starší (dříve narozené)"
@@ -237,7 +237,7 @@
   subtype: workshop
   speakers: [26]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 029
   title: "Jedno Google konto = spousta různých aplikací"
@@ -253,7 +253,7 @@
   subtype: workshop
   speakers: [26]
   language: cz
-  complexity: "Basic"
+  complexity: "Základní"
 -
   id: 031
   title: "Automatizace změní svět: jak se to týká vzdělávání?"

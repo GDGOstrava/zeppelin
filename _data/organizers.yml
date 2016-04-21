@@ -4,9 +4,11 @@
     - {name: "GEG ČR", description: "GEG ČR - Pomáháme učitelům lépe využívat technologie ve výuce i v další práci", link: "http://www.gegcr.cz/", imageUrl: "organizer-logo.gif"}
 - 
   group: "Ve spolupráci s"
+-
   elements: 
     - {name: "GUG.cz", description: "GUG.cz", link: "http://www.gug.cz/cs", imageUrl: "logo-gug.png"}
-- 
+-
   group: "a"
+-
   elements: 
     - {name: "Google CZ", description: "Google CZ", link: "http://www.google.cz", imageUrl: "googlelogo.png"}
