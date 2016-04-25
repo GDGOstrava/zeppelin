@@ -77,6 +77,12 @@
             </div>
             {% endfor %}
         </div>
+          {% for notes in day.notes %}
+          <div class="col-lg-8 col-md-10 col-md-offset-1 about-details" style="padding-bottom:50px">
+            <p>{{ notes.description }}</p>
+            <a href="{% if notes.permalink != null %} {{ notes.permalink | prepend: site.baseurl }} {% else %} {{ notes.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" style="margin-top:30px" {% if button.link != null %}target="_blank"{% endif %}>{{ notes.text }}</a>
+          </div>
+          {% endfor %}
         {% endfor %}
     </div>
 </section>

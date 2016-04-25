@@ -34,6 +34,8 @@
         endTime: "11:50",
         sessionIds: [021]
     }
+  notes:
+    - {description: "Prohlédněte si předběžný seznam workshopů, které nabízíme pro odpolední program. PŘI REGISTRACI máte možnost hlasovat pro 4 workshopy, které vás lákají nejvíc. (Pokud jste se registrovali dříve a neměli jste možnost hlasování, můžete svůj hlas poslat tudy.) Podle výsledků hlasování sestavíme odpolední program tak, abychom co nejlépe vyhověli všem.", link: "http://goo.gl/forms/1wMnx1Dw6T", text: "Můžete svůj hlas poslat tudy"}
 -
   date: "2016-05-14"
   dateReadable: "Seznam odpoledních workshopů"
