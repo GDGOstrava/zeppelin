@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/IhR6nU"
+c4pUrl: "https://goo.gl/noLmou"
 c4sponsorsUrl: "https://goo.gl/IhR6nU"
 
 
@@ -72,7 +72,7 @@ aboutBlock:
 
 aboutTitle2: "O BizFestu"
 aboutBlock2:
- - {text: "Zaměřeno na růst, podpořeno technologiemi. </br>Festival od lidí z businessu pro lidi z businessu. </br>Maximum workshopů a minimum teorie." }
+ - {text: "Zaměřeno na růst, podpořeno technologiemi. </br>Festival od lidí z byznysu pro lidi z byznysu. </br>Maximum workshopů a minimum teorie." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -101,7 +101,7 @@ eventPostalCode: "15000"
 eventAddressCountry: "Česká Republika"
 eventStartTime: "2016-06-11T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-06-11T20:00"
+eventEndTime: "2016-06-11T18:00"
 eventPlaceCoordinates: "50.076465, 14.402273"
 mapCenterCoordinates: "50.076465, 14.402273"
 mapMobileCenterCoordinates: "50.076465, 14.402273"
