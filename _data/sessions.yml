@@ -268,3 +268,24 @@
   subtype: přednáška
   speakers: [4]
   language: cz
+-
+  id: 033
+  title: "Registrace"
+  description: ""
+  subtype:
+  speakers:
+  language: cz
+-
+  id: 034
+  title: "...pokračování"
+  description: ""
+  subtype:
+  speakers:
+  language: cz
+-
+  id: 035
+  title: ""
+  description: ""
+  subtype:
+  speakers:
+  language: 

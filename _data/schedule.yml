@@ -5,6 +5,11 @@
     - {title: "Přednášky", color: "#90be4e"}
   timeslots:
     - {
+        startTime: "08:30",
+        endTime: "09:30",
+        sessionIds: [033]
+     }
+    - {
         startTime: "09:30",
         endTime: "09:40",
         sessionIds: [032]
@@ -35,62 +40,46 @@
   date: "2016-05-14"
   dateReadable: "Seznam odpoledních workshopů"
   tracks: 
-    - {title: "Hardware | Admin", color: "#90be4e"}
-    - {title: "Nic než Google", color: "#03a9f4"}
-    - {title: "Ámos 2.0", color: "#e91e63"}
-    - {title: "Trendy | Vize", color: "#f5c20d"}
+    - {title: "12:00 - 12:45", color: "#90be4e"}
+    - {title: "14:00 - 14:45", color: "#03a9f4"}
+    - {title: "15:00 - 15:45", color: "#e91e63"}
+    - {title: "16:00 - 16:45", color: "#f5c20d"}
   timeslots:
     - {
-        startTime: "",
+        startTime: "Aula",
         endTime: "",
-        sessionIds: [028, 002, 001, 006]
+        sessionIds: [006, 002, 005, 019]
     }
     - {
-        startTime: "",
+        startTime: "PC1",
         endTime: "",
-        sessionIds: [007, 003, 013, 008]
+        sessionIds: [007, 007, 004, 004]
     }
     - {
-        startTime: "",
+        startTime: "PC2",
         endTime: "",
-        sessionIds: [010, 005, 014, 011]
+        sessionIds: [020, 035, 030, 017]
     }
     - {
-        startTime: "",
+        startTime: "PC3",
         endTime: "",
-        sessionIds: [018, 030, 015, 016]
+        sessionIds: [023, 023, 009, 003]
     }
     - {
-        startTime: "",
+        startTime: "PC4",
         endTime: "",
-        sessionIds: [027, 009, 017, 404]
+        sessionIds: [014, 017, 008, 013]
     }
     - {
-        startTime: "",
+        startTime: "U1",
         endTime: "",
-        sessionIds: [004, 012, 020, 404]
+        sessionIds: [018, 034, 018, 034]
     }
     - {
-        startTime: "",
+        startTime: "U2",
         endTime: "",
-        sessionIds: [404, 019, 023, 404]
+        sessionIds: [001, 015, 028, 028]
     }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [404, 025, 026, 404]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [404, 029, 404, 404]
-    }
-    - {
-        startTime: "17:00",
-        endTime: "",
-        sessionIds: [500]
-    }
-
-
-
+  notes:
+    - {description: "Afterpárty se uskuteční od 17:30 v prostorách Auly. Budeme rádi, pokud se všichni zúčastníte.", text: "Nahoru"}
 
