@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hádanky s Xomíkem aneb Hledejte, hádejte a získejte chromebook"
-date:   2016-05-13 09:00:00
+date:   2016-05-12 09:00:00
 isStaticPost: false
 ---
 #### Pokyny k soutěži

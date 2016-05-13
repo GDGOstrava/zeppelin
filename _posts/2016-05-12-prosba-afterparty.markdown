@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afterpárty a prosba na závěr"
-date:   2016-05-13 14:00:00
+date:   2016-05-12 14:00:00
 isStaticPost: false
 ---
 #### Afterparty
