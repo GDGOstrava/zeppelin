@@ -35,7 +35,7 @@
         sessionIds: [021]
     }
   notes:
-    - {description: "Prohlédněte si předběžný seznam workshopů, které nabízíme pro odpolední program. PŘI REGISTRACI máte možnost hlasovat pro 4 workshopy, které vás lákají nejvíc. (Pokud jste se registrovali dříve a neměli jste možnost hlasování, můžete svůj hlas poslat tudy.) Podle výsledků hlasování sestavíme odpolední program tak, abychom co nejlépe vyhověli všem.", link: "http://goo.gl/forms/1wMnx1Dw6T", text: "Můžete svůj hlas poslat tudy"}
+    - {description: "Prohlédněte si program workshopů a rozmyslete si, které by vás zajímaly. Přihlašování na workshopy proběhne při registraci na místě, resp. do 11:00. Kdo dřív přijde na GEGfest, lépe si vybere.!", link: "", text: "Hlasování ukončeno"}
 -
   date: "2016-05-14"
   dateReadable: "Seznam odpoledních workshopů"
