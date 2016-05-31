@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "BizFest"}
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Program"}
- #- {permalink: "/speakers/", text: "Řečníci"}
+ - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/team/", text: "Tým"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}

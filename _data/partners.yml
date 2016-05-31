@@ -7,6 +7,7 @@
   group: "Partneři"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.png", width: "120px"}
+    - {name: "Liftago", description: "Liftago", link: "https://www.liftago.com/cs", imageUrl: "liftago.png", width: "120px"}
 - 
   group: "Mediální partneři"
   elements: 

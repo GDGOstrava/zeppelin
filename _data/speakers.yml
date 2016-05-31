@@ -12,15 +12,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mabednar"}
 - 
-  id: 2
-  name: "Věrka"
-  surname: "Koukalová"
-  company: "Google"
-  title: "Title"
-  bio: 'Digitalni Garaz'
-  thumbnailUrl: verkakoukalova.jpg
-  rockstar: true
-- 
   id: 3
   name: "Martin"
   surname: "Chmelař"
@@ -49,4 +40,155 @@
     - {name: "linkedin", link: "https://cz.linkedin.com/in/jaroslav-procházka-6a65b14"}
     - {name: "twitter", link: "https://twitter.com/@JarekProchazka"}
     - {name: "site", link: "https://differ.cz"}
-  
+- 
+  id: 5
+  name: "Jiří"
+  surname: "Procházka"
+  company: "Mediatel spol. s r.o."
+  title: "Trade Marketing Manager"
+  bio: "MKTG & BRND & DSGN & APP & SOCIAL & TRNG & MNGT LOVER… ano, přiznávám se, mám rád zkratky."
+  thumbnailUrl: jiriprochazka.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Obchod", title: "Obchod", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/jprochazka8"}
+    - {name: "twitter", link: "https://twitter.com/jprochazka8"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JiriProchazka8/posts"}
+- 
+  id: 6
+  name: "Josef"
+  surname: "Kadlec"
+  company: "GoodCall"
+  title: "Notorious Recruitment Entrepreneur ■ Sourcing Architect ■ Author of People as Merchandise ■ LinkedIn® Certified ■ 33000+"
+  bio: ""
+  thumbnailUrl: josefkadlec.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/josefkadlec"}
+- 
+  id: 7
+  name: "Jáchym"
+  surname: "Důjka"
+  company: "Majitel agentury EmBrand.cz"
+  title: "Majitel agentury EmBrand.cz"
+  bio: "Jáchym je dvacetiletý GUGer, má zkušenosti zejména s HR a managementem. Před téměř půl rokem se mu v hlavě zrodila myšlenka spojit HR a marketing dohromady. Při bližším ohledání zjistil, že se to už začíná ve světě rozbíhat a říká se tomu Employer Branding. V podání jeho agentury je to reklama pro firmy, aby v nich lidé chtěli pracovat. Důležitým poznatkem, který chtějí předávat dál je, že Employer Branding není jen pro firmy jako Škoda nebo ČEZ. Dřív pracoval jako HR manažer Call Centra, Personální Consultant nebo Leader Assessment centre teamu ve společnosti Unifer (a to ještě na střední škole). Jeho snem je vytvářet firmy, kde by chtěl pracovat každý."
+  thumbnailUrl: jachymdujka.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Obchod", title: "Obchod", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/jachymdujka"}
+    - {name: "site", link: "http://www.embrand.cz"}
+- 
+  id: 8
+  name: "Jirka"
+  surname: "Pénzeš"
+  company: "TopMonks s.r.o."
+  title: "Software engineer, PhD student, speaker, broadcaster, coffee lover"
+  bio: ""
+  thumbnailUrl: jirkapenzes.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jirkapenzes"}
+    - {name: "twitter", link: "https://twitter.com/jirkapenzes"}
+- 
+  id: 9
+  name: "Marcel"
+  surname: "Láža"
+  company: "Freelancer"
+  title: "Lean/start-up mentor, advisor, consultant, Startup enthusiast, Entrepreneur, Punisher"
+  bio: "Marcel je jedním ze zakládajících členů Google komunit v Ostravě s přesahem mezi Businessem a Developery. Momentálně se po svých studijních, korporátních a startupových zkušenostech (pár wins a hodně failů) zabývá pomáháním jednotlivcům a firem s jejich podnikáním, startováním a validováním nápadů a vším co spojuje business a developementem. Jednoduše řečeno sbíráním nových zkušeností v krátkém čase. A také startuje i vlasntí nápady a firmy."
+  thumbnailUrl: marcellaza.png
+  rockstar: true
+  ribbon:
+    - {abbr: "Inovace", title: "Inovace", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MarcelLaza1/posts"}
+    - {name: "twitter", link: "https://twitter.com/lazamarcel"}
+    - {name: "site", link: "http://www.marcellaza.com"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/marcellaza"}
+- 
+  id: 10
+  name: "Matěj"
+  surname: "Matolín"
+  company: "Lovec-hlav.cz"
+  title: "HR manager, Talent Hunter & Blogger"
+  bio: ""
+  thumbnailUrl: matejmatolin.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matejmatolin"}
+- 
+  id: 11
+  name: "Karel"
+  surname: "Pařízek"
+  company: "Blueberry.cz Apps s.r.o."
+  title: "Online/Digital Marketing"
+  bio: ""
+  thumbnailUrl: karelparizek.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/karelparizek"}
+- 
+  id: 12
+  name: "Pavel"
+  surname: "Ungr"
+  company: ""
+  title: "Nezávislý konzultant online marketingu a SEO"
+  bio: ""
+  thumbnailUrl: pavelungr.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pavelungr"}
+- 
+  id: 13
+  name: "Veronika"
+  surname: "Brindzová"
+  company: "Sun Marketing, s.r.o."
+  title: "PA & WA team leader"
+  bio: ""
+  thumbnailUrl: veronikabrindzova.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/veronika-brindzov%C3%A1-9799124b"}
+- 
+  id: 14
+  name: "Jan"
+  surname: "Tichý"
+  company: "Medio Interactive"
+  title: "Ředitel společnosti"
+  bio: ""
+  thumbnailUrl: jantichy.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+jantichy/posts"}
+    - {name: "twitter", link: "https://twitter.com/jantichy"}
+- 
+  id: 15
+  name: "Kateřina"
+  surname: "Borovanská"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: katerinaborovanska.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+jantichy/posts"}
+    - {name: "twitter", link: "https://twitter.com/jantichy"}
