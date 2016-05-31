@@ -11,6 +11,9 @@
 					<div class="pricing-header">
 						<p class="title">{{ ticketsOffer.name }}</p>
 						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
+            {% if ticketsOffer.voluntarily == true %}
+            <p class="voluntarily">{{ ticketsOffer.voluntarilyText }}</p>
+            {% endif %}
 					</div>
 					<div class="pricing-content">
 						<ul>

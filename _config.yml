@@ -44,7 +44,7 @@ c4sponsorsUrl: "https://goo.gl/IhR6nU"
 navigationLinks:
  - {permalink: "/", text: "BizFest"}
  #- {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/team/", text: "Tým"}
 bottomNavigationLinks:
@@ -140,8 +140,9 @@ ticketsOffers:
   name: "První ročník"
   price: "199"
   priceCurrency: "CZK"
+  voluntarily: true
+  voluntarilyText: "Dobrovolné vstupné"
   ticketsNumber: "150"
-  ribbon: "Dobrovolné"
   featured: true
   buyButtonLink: "https://goo.gl/jXzIIs"
   buyButtonText: "Chci se registrovat"
