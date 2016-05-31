@@ -1,7 +1,7 @@
 <!-- Begin Tickets Section -->
 <section id="tickets" class="tickets">
 	<div class="content-wrapper">
-		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+		<div class="col-md-4 col-md-offset-4">
 			<h3>{{ site.ticketsTitle }}</h3>
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -29,6 +29,7 @@
 					</div>
 				</div>
             {% endfor %}
+      <div class="tickets-info">{{ site.ticketsInfo }}</div>
 		</div>
 	</div>
 </section>
