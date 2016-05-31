@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/noLmou"
+c4pUrl: "http://goo.gl/forms/2Y533qzprY486Xz22"
 c4sponsorsUrl: "https://goo.gl/IhR6nU"
 
 
@@ -48,9 +48,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/team/", text: "Tým"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
+ - {link: "http://goo.gl/forms/2Y533qzprY486Xz22", text: "Chci přednášet"}
 rightNavigationButtons:
- - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
+ - {link: "http://goo.gl/forms/2Y533qzprY486Xz22", text: "Chci přednášet"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -60,8 +60,8 @@ eventDate: "11. června, 2016"
 typeoutTextValues: '"", "Season", "Prague", "Czech Republic"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/noLmou", text: "Chci přednášet"}
- - {link: "https://goo.gl/jXzIIs", text: "Chci se registrovat"}
+ - {link: "http://goo.gl/forms/2Y533qzprY486Xz22", text: "Chci přednášet"}
+ - {link: "http://goo.gl/forms/aiUAFct4HFv5tjVy1", text: "Chci se registrovat"}
 
 # About Block
 aboutTitle: "O BizFestu"
@@ -137,14 +137,14 @@ ticketsTitle: "Vstupenka"
 ticketsInfo: "První ročník Bizfestu bude zdarma, ale v případě vaší spokojenosti je možnost dobrovolného příspěvku ve výši 199 Kč splatného na místě."
 ticketsOffers:
  -
-  name: "První ročník"
+  name: "Nultý ročník"
   price: "199"
   priceCurrency: "CZK"
   voluntarily: true
   voluntarilyText: "Dobrovolné vstupné"
   ticketsNumber: "150"
   featured: true
-  buyButtonLink: "https://goo.gl/jXzIIs"
+  buyButtonLink: "http://goo.gl/forms/aiUAFct4HFv5tjVy1"
   buyButtonText: "Chci se registrovat"
   ticketContentList: ["Přednášky, Workshopy, Technologie", "Inovace, Management, Marketing", "Networking"]
   validFrom: "2016-06-11T09:00"

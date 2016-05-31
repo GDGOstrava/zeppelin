@@ -145,7 +145,7 @@
   company: ""
   title: "Nezávislý konzultant online marketingu a SEO"
   bio: ""
-  thumbnailUrl: pavelungr.jpg
+  thumbnailUrl: pavelungr.png
   rockstar: true
   ribbon:
     - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
@@ -190,5 +190,17 @@
   ribbon:
     - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+jantichy/posts"}
-    - {name: "twitter", link: "https://twitter.com/jantichy"}
+
+- 
+  id: 16
+  name: "Radim"
+  surname: "Koštial"
+  company: "SIPRAL"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: radimkostial.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/radimkostial"}
