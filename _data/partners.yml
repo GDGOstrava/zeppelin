@@ -9,6 +9,7 @@
     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.png", width: "120px"}
     - {name: "Liftago", description: "Liftago", link: "https://www.liftago.com/cs", imageUrl: "liftago.png", width: "120px"}
     - {name: "Baby Office", description: "Baby Office", link: "http://www.babyoffice.cz/", imageUrl: "babyoffice.jpg", width: "240px"}
+    - {name: "Samurai Shot", description: "Samurai Shot - non alcoholic drink", link: "http://www.samuraishot.cz/", imageUrl: "samuraishot.jpg", width: "240px"}
 - 
   group: "Mediální partneři"
   elements: 
