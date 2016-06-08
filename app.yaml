@@ -1,5 +1,5 @@
 application: bizfestgug
-version: praha2016-biz-0
+version: praha2016-biz-1
 runtime: python27
 api_version: 1
 threadsafe: true

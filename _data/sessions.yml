@@ -21,6 +21,7 @@
   title: "Keynote"
   place: "Velká konfera"
   service: true
+  subtype: keynote
   description: ""
 -
   id: 407
@@ -30,55 +31,142 @@
   description: ""
 -
   id: 507
-  title: "Obědová pauza"
+  title: "Coffee Break"
   place: "Open Space"
   service: true
   description: ""
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Inovační laboratoř"
+  description: "<strong>Inovační laboratoř je:</strong><ul><li>Místem pravidelného setkávání chytrých lidí a mozků, kteří srší nápady, když je správně stimulujete.</li><li>InnLab je tady pro Vás, pokud chcete probudit svou tvořivost, pokud chcete vyprávět svůj příběh jinak.</li></ul><strong>Chcete:</strong></br><ul><li>zjistit, jak fungují inovace a ochutnat nové techniky tvořivého myšlení v týmu</li><li> poznat podobně smýšlející a kreativní lidi a vzájemně se inspirovat?</li><li> přispět svými nápady ke smysluplným tématům nebo přijít s vlastními?</li></ul><strong>Tématem Inovační Laboratoře na BizFestu bude:</strong></br><ul><li>Inovativní způsoby jakými může SME firma zvýšit svou životaschopnost.</li><li>Co potřebuje SME firma, aby prosperovala v 21. století?</li></ul></br>Kapacita je omezena vzhledem k místnosti na cca 16 lidí."
   subtype: workshop
-  speakers: 
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [3,9]
+  language: cz
+  complexity: 
+  length: "3 hod"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: 
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Socialismus skončil! Aneb poskytujeme skvělé služby s hodnotou (hra)."
+  description: "<ul><li>Chcete si vyzkoušet kontakt s vaší firmou v botách zákazníka a ještě k tomu hravou a bezpečnou formou?</li><li>Chcete se naučit, jak neustále rozvíjet a zlepšovat vaše služby a doručovat zákazníkům opravdovou hodnotu a ne tu domnělou?</li><li>Jste připraveni přijmout tvrdý náraz reality?</li><li>Pak je pro vás tato hra nejlepší inspirací a cestou k naučení a zapamatování si nových postupů a technik.</li></ul></br>Společně budeme simulovat typický den provozu autoservisu a díky vašemu prožitku v kůži technika či zákazníka maximalizujeme efekt učení. Účastníci se na hře naučí chápat hodnotu pro zákazníka, jeho potřeby, optimalizaci toku směrem k hodnotě, navrhovat a nasazovat malá zlepšení, stejně jako skokové změny napříč odděleními a také si ukážeme obrovskou hodnotu používání vlastní služby.</br>Vezměte si klíče od auta, fotku poslední servisní hlášky, hasák, brzdové destičky, náhradní žárovky, obrňte se trpělivostí a pojďme na to!"
+  subtype: workshop
+  speakers: [4]
+  language: cz
+  complexity: 
+  length: "1,5 hod"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Berte si velká sousta"
+  description: "Radim se s námi podělí o praktické zkušnosti spojené s růstem firmy.</br>Nebojte se velkých cílu, ale mějte k nim pokoru.</br>Být nejlepší v Česku je krásné, i když udržet si takové renomé není jednoduché. A když chcete uspět v zahraničí, je to ještě těžší. Ale zase o to víc naučíte a posune vás to o míle dál.</br>Přijdťe se podívat a poslechnout si Radimův příběh."
   subtype: presentation
-  speakers: 
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [16]
+  language: cz
+  complexity:  
+  length:
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: []
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Tři digitální králové pro maximální efektivitu"
+  description: "Prakticky a názorně si ukážeme smrtící sílu tří jednoduchých nástrojů pro projektové řízení a týmovou komunikaci. Testováno na lidech, výsledky zaručeny.</br>Vlastní laptop do workshopu vítán."
+  subtype: workshop
+  speakers: [19,17,9]
+  language: cz
+  complexity:
+  length: 60 min
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: []
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Design thinking"
+  description: "Design thinking není jen o uživatelském rozhraní</br>Není to výsada designerů.</br>Dá se použít v biz</br>Lances of inovation Rowan Gibson</br>3x rozšíření, zužení"
+  subtype: presentation
+  speakers: [1]
+  language: cz
+  complexity: 
+  length: 30 min
+-
+  id: 006
+  title: "Firma, kde chce pracovat každý může být i ta vaše"
+  description: "Myslíte si, že lidé chtějí pracovat jen ve Škodovce nebo v ČEZu? Není tomu tak. Prozradím vám tipy, které může dělat jakákoliv firma, aby si našla ty správné zaměstnance, kteří budou tělem i duší pracovat pro vaši firmu. Mimojiné si posvítíme i na hantýrku pracovních inzerátů a pobavíme se o tom, proč již tradiční metody náboru nejsou příliš efektivní."
+  subtype: presentation
+  speakers: [7]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 007
+  title: "Jak vyškolit co nejvíce kvalitních marketingových konzultantů za co nejkratší dobu"
+  description: "Představím vám case studies implementace vzdělávacího programu pro mediální konzultanty společnosti Mediatel.cz pro telesales & field sales. Postup, jak vyškolit co nejvíce kvalitních marketingových konzultantů za co nejkratší dobu a průběžně jejich znalosti udržovat a rozvíjet."
+  subtype: presentation
+  speakers: [5]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 008
+  title: "Digitální garáž - Úvod do online Marketingu a STDC"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 009
+  title: "Digitální garáž - Paid Search"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 010
+  title: "Digitální garáž - Social"
+  description: ""
+  subtype: presentation
+  speakers: [15]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 011
+  title: "Digitální garáž - SEO"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 012
+  title: "Digitální garáž - Webová analytika"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 013
+  title: "Liftago: Byznys kvíz"
+  description: "Liftago je nejlépe hodnocenou aplikací na odvoz u nás. Uveze měsíčně přes 70 000 lidí tak, že vyvažuje nabídku s poptávkou. Jak to dělá? Jak byste to dělali vy? Poslechněte si úvodní pitch a Q&A Liftaga a potom absolvujte byznys kvíz. Budete moct i něco vyhrát ;-)"
+  subtype: presentation
+  speakers: [18]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 014
+  title: "Jak vymačkat maximum z LinkedIn vyhledávání lidí"
+  description: "<ul><li>Technické možnosti, jak oslovit uživatele LinkedIn za účelem dosažení zisku.</li><li>Překonání omezení LinkedIn.</li><li>Branding aspekt osobních i firemních LinkedIn profilů.</li><li>Přehled alternativ k LinkedIn.</li><li>Nástroje třetích stran, které vám pomohou být více efektivní s LinkedIn.</li></ul>"
+  subtype: presentation
+  speakers: [6]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 015
+  title: "Nejlepší HR je žádné HR"
+  description: "Po mnoha letech v HR jsem dospěl k poznání, že ideálem je žádné HR nemít. Protože tam kde chybí selský rozum, jsou pošramocené vztahy, je toxická kultura nebo nefunkční management, tam přichází HR se svými procesy, formuláři a standardy. Jaká je alternativa? Jaká má vypadat nábor lidí a péče o ně v roce 2016? Jaké jsou best practices a správné postupy?"
+  subtype: presentation
+  speakers: [10]
+  language: cz
+  complexity: 
+  length: 

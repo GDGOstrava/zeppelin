@@ -2,9 +2,9 @@
   id: 1
   name: "Martin"
   surname: "Bednář"
-  company: "Company"
-  title: "Kdo to je"
-  bio: "Neco o nem"
+  company: 
+  title: "Helping companies succeed through product and user experience innovation"
+  bio: "Product design leader with business acumen and 10 years of experience designing and launching successful web, enterprise, and scientific software products used by individuals, Fortune 50 customers, and top research institutions. Passionate about making big data simple to manage, comprehend, and act on. Striving to work on disruptive technology, make a lasting impact, and bring a positive change to the world."
   thumbnailUrl: martinbednar.jpg
   rockstar: true
   ribbon: 
@@ -17,19 +17,22 @@
   surname: "Chmelař"
   company: "Rainfellows"
   title: "Helping leaders to build their tribes - for better business and life"
-  bio: ""
+  bio: "Jsem kouč a mentor s dlouholetou zkušeností zvláště v oblasti Lean & Agile způsobu práce. Mou vášní je povzbuzovat a podporovat jednotlivce i týmy při změnách na cestě za jejich sny, pomáhat jim najít směr a udělat další krok, ať už se zabývají vývojem softwaru, vedou firmu, rozjíždějí nový byznys nebo třeba řídí základní školu. K tomu přispívám svou zkušeností ze spolupráce s mnoha lidmi, týmy a společnostmi po celém světě, kteří často pracují ve složitých podmínkách, co se týče jejich rozmístění v různých zemích, velikosti týmu, různých jazyků a kultur a složitých problémů, které musí společně řešit. "
   thumbnailUrl: martinchmelar.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Inovace", title: "Inovace", url: ""}
   social: 
     - {name: "linkedin", link: "https://cz.linkedin.com/in/martinchmelar"}
-    - {name: "site", link: "rainfellows.com"}
+    - {name: "site", link: "http://rainfellows.com"}
+    - {name: "site", link: "http://rainfellows.com/cs/profil-spolecnosti/martin-chmelar/"}
+
+    
 - 
   id: 4
   name: "Jaroslav"
   surname: "Procházka"
-  company: "Freelance"
+  company: "Freelancer"
   title: "Agile and Lean mentor, innovation driver"
   bio: "Jaroslav je mentor v IT a podporovatel firem a jednotlivců v rozjezdu a růstu podnikání. Baví ho učit lidi spolu mluvit (zvlášť ve vedení firem), podporovat je v hledání toho, kde jim to nejvíc sedí a v doručování skutečné hodnoty. Kromě spolupráce se startupy a mentorování interních startupů řeší s firmami jejich IT a také vedení lidí na všech úrovních. Založil podnikatelský <a href='http://www.vivaostrava.cz/inklubator' target='_blank'>inkubátor ve Viva Ostrava</a> a stejné aktivity organizoval i pro studenty ostravských vysokých škol. Pracoval v několika malých a středních českých firmách, velkých mezinárodních korporacích i českých institucích. Spolupořádal a vytvářel konference Kvalita ve vzdělávání, Konference o talentu ve Viva Ostrava či Ostravský TEDx. O své zkušenosti se rád dělí také v knihách, e-knihách či jako garant pisatel <a href='http://www.hrkavarna.cz/' target='_blank'>HRkavarna.cz.</a>"
   thumbnailUrl: jaroslavprochazka.jpg
@@ -74,7 +77,7 @@
   surname: "Důjka"
   company: "Majitel agentury EmBrand.cz"
   title: "Majitel agentury EmBrand.cz"
-  bio: "Jáchym je dvacetiletý GUGer, má zkušenosti zejména s HR a managementem. Před téměř půl rokem se mu v hlavě zrodila myšlenka spojit HR a marketing dohromady. Při bližším ohledání zjistil, že se to už začíná ve světě rozbíhat a říká se tomu Employer Branding. V podání jeho agentury je to reklama pro firmy, aby v nich lidé chtěli pracovat. Důležitým poznatkem, který chtějí předávat dál je, že Employer Branding není jen pro firmy jako Škoda nebo ČEZ. Dřív pracoval jako HR manažer Call Centra, Personální Consultant nebo Leader Assessment centre teamu ve společnosti Unifer (a to ještě na střední škole). Jeho snem je vytvářet firmy, kde by chtěl pracovat každý."
+  bio: "Jáchym je mladý podnikatel, který se po zkušenostech z práce HR managera, vedoucího týmu specialistů na Assessment centra a personálního konzultanta rozhodl spojit HR a marketing dohromady a využít jej při zefektivnění procesu náboru. Při dalším zkoumání zjistil, že už se podobné metody začínájí ve světě využívat a označují se jako Employer Branding. Employer Branding chápe jako komplexní proces, který pomáhá firmám zefektivnit proces náboru, nebo velmi zjednodušeně jako reklamu pro firmy, aby v nich lidé chtěli pracovat. Jáchym věří, že Employer Branding není jen pro firmy jako Škoda nebo ČEZ, a že i střední nebo menší firmy dokážou být atraktivním zaměstnavatele ve svém oboru."
   thumbnailUrl: jachymdujka.jpg
   rockstar: true
   ribbon:
@@ -118,20 +121,23 @@
   surname: "Matolín"
   company: "Lovec-hlav.cz"
   title: "HR manager, Talent Hunter & Blogger"
-  bio: ""
+  bio: "Matěj Matolín je nejznámější český blogger píšící o HR a recruitmentu. Kariéru začínal v Public Relations a vedl komunikaci v TPCA, ve své době největší zahraniční investici v ČR. Od komunikace se postupně přesouval k HR marketingu a recruitmentu a měl na starosti významné náborové projekty. Několik let pracoval v Belgii, kde získal zkušenosti s mezinárodním recruitmentem. Neustále pátrá, jak nejlépe propojit HR s dalšími obory a aplikovat metody marketingu a PR v recruitmentu." 
   thumbnailUrl: matejmatolin.jpg
   rockstar: true
   ribbon:
     - {abbr: "Management", title: "Management", url: ""}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/matejmatolin"}
+    - {name: "facebook", link: "https://www.facebook.com/lovec.hlav.cz/"}
+    - {name: "twitter", link: "https://twitter.com/matejmatolin"}
+    - {name: "site", link: "www.lovec-hlav.cz"}
 - 
   id: 11
   name: "Karel"
   surname: "Pařízek"
   company: "Blueberry.cz Apps s.r.o."
-  title: "Online/Digital Marketing"
-  bio: ""
+  title: "Online/Digital Marketing a Google Partners Certified Trainer"
+  bio: "Na starosti má plánování, strategie i exekuce online kampaní s týmem 10 lidí různých specializací. Online marketingu se věnuje přes 8 let a nyní sdílí získané znalosti i jiným, neziskovým, projektům než jen v komerečním světě."
   thumbnailUrl: karelparizek.jpg
   rockstar: true
   ribbon:
@@ -142,9 +148,9 @@
   id: 12
   name: "Pavel"
   surname: "Ungr"
-  company: ""
-  title: "Nezávislý konzultant online marketingu a SEO"
-  bio: ""
+  company: "Freelancer"
+  title: "SEO specialista"
+  bio: "Pavel Ungr je specialista na SEO a online marketing s desetiletou zkušeností v oboru. Pracuje jako konzultant na volné noze, zkušenosti sbíral i v agenturách H1.cz a Ataxo. Krom SEO ho zajímá u UX, obsahový marketing a sociální sítě. Pracuje pro střední i větší klienty jako např. Alkohol.cz, Mall.cz, Hudy.cz, Fischer.cz nebo zahraniční projekty jako Social Bakers nebo Lectura."
   thumbnailUrl: pavelungr.png
   rockstar: true
   ribbon:
@@ -156,8 +162,8 @@
   name: "Veronika"
   surname: "Brindzová"
   company: "Sun Marketing, s.r.o."
-  title: "PA & WA team leader"
-  bio: ""
+  title: "PA & WA team leader a Google Partners Certified Trainer"
+  bio: "Od účasti na mezinárodní soutěži Google Online Marketing Challenge v roce 2012 se Verča dostala až k vedení oddělení webové analytiky v Sun Marketingu. Od února 2016 je certifikovaným trenérem Google. Má na starost klienty jako je Allianz Pojišťovna, Fortuna, Asseco Solution nebo Global Wines."
   thumbnailUrl: veronikabrindzova.jpg
   rockstar: true
   ribbon:
@@ -169,8 +175,8 @@
   name: "Jan"
   surname: "Tichý"
   company: "Medio Interactive"
-  title: "Ředitel společnosti"
-  bio: ""
+  title: "Ředitel společnosti a Google Partners Certifed Trainer"
+  bio: "Jan Tichý vede analytickou a konzultační společnost Medio Interactive a školicí agenturu Medio Akademie. V rámci poradenské činnosti se zabývá zejména Google Analytics, datovou analytikou, business intelligence, optimalizací obchodní výkonnosti webů, SEO, linkbuildingem a internetovým marketingem obecně. Je oficiální Google Partners Certified Trainer, je držitelem certifikátu Google Analytics Individual Qualification a jeho firma je Google Analytics Certified Partner a Google Tag Manager Certified Partner."
   thumbnailUrl: jantichy.jpg
   rockstar: true
   ribbon:
@@ -182,15 +188,14 @@
   id: 15
   name: "Kateřina"
   surname: "Borovanská"
-  company: ""
-  title: ""
-  bio: ""
+  company: "FREYA & Fénix content marketing"
+  title: "Managing director"
+  bio: "Studovala na FF UK politologii, jihovýchodoevropská studia a rumunskou filologii. V současné sobě se věnuje především aktivitám v oblasti content marketingu a strategickému řízení marketingu a komunikace u klientů. Je organizátorkou soutěže Fénix content marketing, která každoročně vyhlašuje nejlepší práce na trhu v této oblasti."
   thumbnailUrl: katerinaborovanska.jpg
   rockstar: true
   ribbon:
     - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
   social: 
-
 - 
   id: 16
   name: "Radim"
@@ -204,3 +209,48 @@
     - {abbr: "Management", title: "Management", url: ""}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/radimkostial"}
+- 
+  id: 17
+  name: "Filip"
+  surname: "Goszler"
+  company: "Impact Hub Ostrava"
+  title: "Project and Community Manager. Ninja. Google Enthusiast."
+  bio: ""
+  thumbnailUrl: filipgoszler.png
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+FilipGoszler/posts"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/filipgoszler/en"}
+- 
+  id: 18
+  name: "Ondřej"
+  surname: "Krátký"
+  company: "Liftago"
+  title: "Spoluzakladatel"
+  bio: ""
+  thumbnailUrl: ondrejkratky.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Inovace", title: "Inovace", url: ""}
+  social: 
+    - {name: "facebook", link: "https://facebook.com/kratky.ondrej"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/ondrejkratky"}
+    - {name: "twitter", link: "https://twitter.com/ondrakra"}
+- 
+  id: 19
+  name: "Honza"
+  surname: "Slavík"
+  company: "Ovax.cz"
+  title: "Jedi"
+  bio: ""
+  thumbnailUrl: honzaslavik.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HonzaSlav%C3%ADk/posts"}
+    - {name: "twitter", link: "https://twitter.com/honza_slavik"}
+    - {name: "site", link: "http://www.honzaslavik.com/"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/honzaslavik"}
