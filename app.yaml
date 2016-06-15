@@ -1,14 +1,10 @@
 application: gegfestpraha
-version: praha2016-02
+version: praha2016
 runtime: python27
 api_version: 1
 threadsafe: true
 
 handlers:
-- url: /
-  static_files: index.html
-  upload: index\.html$
-
 - url: /tym/
   static_files: tym/index.html
   upload: index\.html$
@@ -41,21 +37,45 @@ handlers:
   static_files: blog/index.html
   upload: index\.html$
 
-- url: /www.gegfest.cz
-  static_files: www.gegfest.cz.html
-  upload: www.gegfest.cz\.html$
+- url: /blog/soutez
+  static_files: blog/soutez.html
+  upload: soutez\.html$
 
-- url: /(.+)/
+- url: /blog/novinky-test
+  static_files: blog/novinky-test.html
+  upload: novinky-test\.html$
+
+- url: /blog/odpoledni-program-kopie
+  static_files: blog/odpoledni-program-kopie.html
+  upload: odpoledni-program-kopie\.html$
+
+- url: /blog/posledni-novinka
+  static_files: blog/posledni-novinka.html
+  upload: posledni-novinka\.html$
+
+- url: /blog/pravidla-souteze
+  static_files: blog/pravidla-souteze.html
+  upload: pravidla-souteze\.html$
+
+- url: /blog/prednasky-cool
+  static_files: blog/prednasky-cool.html
+  upload: prednasky-cool\.html$
+
+- url: /blog/registrace
+  static_files: blog/registrace.html
+  upload: registrace\.html$
+
+- url: /blog/Dan-Franc
+  static_files: blog/Dan-Franc.html
+  upload: Dan-Franc\.html$
+
+- url: /
   static_files: index.html
-  upload: .+/index\.html$
+  upload: index\.html$
 
 - url: /cod/
   static_files: cod/index.html
   upload: index\.html$
-
-- url: /blog/(.*)$
-  static_files: blog/(.*)$
-  upload: .*$
 
 - url: /assets/(.*)
   static_files: assets/(.*)
