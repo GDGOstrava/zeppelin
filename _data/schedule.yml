@@ -2,10 +2,10 @@
   date: "2016-06-11"
   dateReadable: "11. května"
   tracks: 
-    - {title: "Open space", color: "#f9e200"}
+    - {title: "Open space", color: "#bf3eff"}
     - {title: "Velká konfera", color: "#C33C1C"}
-    - {title: "Oranžová", color: "#ffa500"}
-    - {title: "Zelená", color: "#bdf648"}
+    - {title: "Žlutá", color: "#FFFF00"}
+    - {title: "Modrá", color: "#6495ED"}
 
           
   timeslots:
@@ -22,7 +22,7 @@
     - {
     	startTime: "10:30",
     	endTime: "11:30",
-    	sessionIds: [005,008,013,107]
+    	sessionIds: [005,008,013,016]
     }
     - {
       startTime: "11:30",
@@ -37,15 +37,20 @@
     - {
       startTime: "13:30",
       endTime: "14:30",
-      sessionIds: [404,010,404,107]
+      sessionIds: [017,010,404,107]
     }
     - {
       startTime: "14:30",
       endTime: "15:30",
-      sessionIds: [003,011,006,107]
+      sessionIds: [003,012,006,107]
     }
     - {
       startTime: "15:30",
       endTime: "16:30",
-      sessionIds: [015,012,007,004]
+      sessionIds: [015,107,007,004]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "16:45",
+      sessionIds: [308]
     }

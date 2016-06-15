@@ -24,17 +24,24 @@
   subtype: keynote
   description: ""
 -
+  id: 308
+  title: "Závěrečná Keynote"
+  place: "Velká konfera"
+  service: true
+  subtype: keynote
+  description: ""
+-
   id: 407
-  title: "Coffee Break"
+  title: "Lunch/Coffee Break"
   place: "Open Space"
   service: true
   description: ""
 -
   id: 507
-  title: "Coffee Break"
+  title: "Lunch Break"
   place: "Open Space"
   service: true
-  description: ""
+  description: "<a href='https://drive.google.com/open?id=149UWwPiS8Q25lRNFONStUxDsuWI&usp=sharing' target='_blank'>Mapa s restauracemi poblíž</a>"
 -
   id: 001
   title: "Inovační laboratoř"
@@ -73,7 +80,7 @@
   length: 60 min
 -
   id: 005
-  title: "Design thinking"
+  title: "Design thinking pro produktovou inovaci"
   description: "Design thinking není jen o uživatelském rozhraní</br>Není to výsada designerů.</br>Dá se použít v biz</br>Lances of inovation Rowan Gibson</br>3x rozšíření, zužení"
   subtype: presentation
   speakers: [1]
@@ -82,7 +89,7 @@
   length: 30 min
 -
   id: 006
-  title: "Firma, kde chce pracovat každý může být i ta vaše"
+  title: "Firma, kde chce pracovat každý, může být i ta vaše"
   description: "Myslíte si, že lidé chtějí pracovat jen ve Škodovce nebo v ČEZu? Není tomu tak. Prozradím vám tipy, které může dělat jakákoliv firma, aby si našla ty správné zaměstnance, kteří budou tělem i duší pracovat pro vaši firmu. Mimojiné si posvítíme i na hantýrku pracovních inzerátů a pobavíme se o tom, proč již tradiční metody náboru nejsou příliš efektivní."
   subtype: presentation
   speakers: [7]
@@ -125,15 +132,7 @@
   language: cz
   complexity: 
   length: 
--
-  id: 011
-  title: "Digitální garáž - SEO"
-  description: ""
-  subtype: presentation
-  speakers: [12]
-  language: cz
-  complexity: 
-  length: 
+
 -
   id: 012
   title: "Digitální garáž - Webová analytika"
@@ -154,7 +153,7 @@
   length: 
 -
   id: 014
-  title: "Jak vymačkat maximum z LinkedIn vyhledávání lidí"
+  title: "LinkedIn na steroidech: Jak vymáčknout maximum z LinkedIn People Search"
   description: "<ul><li>Technické možnosti, jak oslovit uživatele LinkedIn za účelem dosažení zisku.</li><li>Překonání omezení LinkedIn.</li><li>Branding aspekt osobních i firemních LinkedIn profilů.</li><li>Přehled alternativ k LinkedIn.</li><li>Nástroje třetích stran, které vám pomohou být více efektivní s LinkedIn.</li></ul>"
   subtype: presentation
   speakers: [6]
@@ -167,6 +166,24 @@
   description: "Po mnoha letech v HR jsem dospěl k poznání, že ideálem je žádné HR nemít. Protože tam kde chybí selský rozum, jsou pošramocené vztahy, je toxická kultura nebo nefunkční management, tam přichází HR se svými procesy, formuláři a standardy. Jaká je alternativa? Jaká má vypadat nábor lidí a péče o ně v roce 2016? Jaké jsou best practices a správné postupy?"
   subtype: presentation
   speakers: [10]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 016
+  title: "Je to tak snadné - tak proč to nedělat? O podnikání a osobním štěstí"
+  description: "Řeč bude o banálních pravdách, které tak nějak tušíme nebo jsme o nich dokonce přesvědčení, ale ne vždy podle nich jedeme. O tom, že soft  skills jsou docela hard core a hard work a mají huge impact pro vaše podnikání i osobní štěstí. Snad zboříme mýtus o pracovním, osobním, rodinném a kdo ví jakých dalších životech. Nabídnu vám pár jednoduchých tipů,  jak tyto své životy propojit v jeden, co nejúspěšnější. A zmíním se taky o koučování, protože je to prostředek – metoda, která mi funguje."
+  subtype: presentation
+  speakers: [20]
+  language: cz
+  complexity: 
+  length: 
+-
+  id: 017
+  title: "Umění dělat distribuovaný tým"
+  description: "Společně se podíváme, jak může fungovat tým nebo firma, jenž není závislý na místě a může fungovat na dálku odkudkoliv na světě. Jaké to má výhody a nevýhoda a jak vůbec lze takový tým budovat a dlouhodobě udržovat. Nasdílím své postřehy, kterými jsem si reálně prošel."
+  subtype: presentation
+  speakers: [8]
   language: cz
   complexity: 
   length: 

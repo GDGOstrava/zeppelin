@@ -26,8 +26,6 @@
     - {name: "linkedin", link: "https://cz.linkedin.com/in/martinchmelar"}
     - {name: "site", link: "http://rainfellows.com"}
     - {name: "site", link: "http://rainfellows.com/cs/profil-spolecnosti/martin-chmelar/"}
-
-    
 - 
   id: 4
   name: "Jaroslav"
@@ -95,7 +93,7 @@
   thumbnailUrl: jirkapenzes.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Management", title: "Management", url: ""}
+    - {abbr: "Inovace", title: "Inovace", url: ""}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jirkapenzes"}
     - {name: "twitter", link: "https://twitter.com/jirkapenzes"}
@@ -130,7 +128,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/matejmatolin"}
     - {name: "facebook", link: "https://www.facebook.com/lovec.hlav.cz/"}
     - {name: "twitter", link: "https://twitter.com/matejmatolin"}
-    - {name: "site", link: "www.lovec-hlav.cz"}
+    - {name: "site", link: "http://www.lovec-hlav.cz"}
 - 
   id: 11
   name: "Karel"
@@ -145,25 +143,12 @@
   social: 
     - {name: "linkedin", link: "https://cz.linkedin.com/in/karelparizek"}
 - 
-  id: 12
-  name: "Pavel"
-  surname: "Ungr"
-  company: "Freelancer"
-  title: "SEO specialista"
-  bio: "Pavel Ungr je specialista na SEO a online marketing s desetiletou zkušeností v oboru. Pracuje jako konzultant na volné noze, zkušenosti sbíral i v agenturách H1.cz a Ataxo. Krom SEO ho zajímá u UX, obsahový marketing a sociální sítě. Pracuje pro střední i větší klienty jako např. Alkohol.cz, Mall.cz, Hudy.cz, Fischer.cz nebo zahraniční projekty jako Social Bakers nebo Lectura."
-  thumbnailUrl: pavelungr.png
-  rockstar: true
-  ribbon:
-    - {abbr: "Digitální garáž", title: "Digitální garáž", url: ""}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pavelungr"}
-- 
   id: 13
   name: "Veronika"
   surname: "Brindzová"
   company: "Sun Marketing, s.r.o."
   title: "PA & WA team leader a Google Partners Certified Trainer"
-  bio: "Od účasti na mezinárodní soutěži Google Online Marketing Challenge v roce 2012 se Verča dostala až k vedení oddělení webové analytiky v Sun Marketingu. Od února 2016 je certifikovaným trenérem Google. Má na starost klienty jako je Allianz Pojišťovna, Fortuna, Asseco Solution nebo Global Wines."
+  bio: "Od účasti na mezinárodní soutěži Google Online Marketing Challenge v roce 2012 se Verča dostala až k vedení oddělení výkonové reklamy a webové analytiky v Sun Marketingu. Od února 2016 je certifikovaným trenérem Google. Má na starost klienty jako je Allianz Pojišťovna, Fortuna, Asseco Solution nebo Global Wines."
   thumbnailUrl: veronikabrindzova.jpg
   rockstar: true
   ribbon:
@@ -254,3 +239,19 @@
     - {name: "twitter", link: "https://twitter.com/honza_slavik"}
     - {name: "site", link: "http://www.honzaslavik.com/"}
     - {name: "linkedin", link: "https://cz.linkedin.com/in/honzaslavik"}
+- 
+  id: 20
+  name: "Gabriela"
+  surname: "Böhmová"
+  company: "Freelancer"
+  title: "Osobní kouč"
+  bio: "G. B. je osobní koučka, lektorka, a trénérka komunikačních dovedností. Taky amatérská zahradnice. S klienty i kytkami hledá optimální podmínky pro růst, kvetení a změnu. Koučovací přístup 'hledej, co funguje, to posiluj a rozvíjej', stejně jako  'co zaléváš, to roste' aplikuje s klienty i kytkami.Podporuje lidi, týmy nebo rodiny v objevování vlastní síly, přijímání zodpovědnosti, výzev a ve snaze žít smyslu-plně život, práci, vztahy. Moderně se tomu říká 'přijmout osobní leadership' (ve Hvězdných válkách 'stát se džedájem' ;-)."
+  thumbnailUrl: gabrielabohmova.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Management", title: "Management", url: ""}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/104761192995848367608"}
+    - {name: "facebook", link: "https://www.facebook.com/gabriela.bohmova.3"}
+    - {name: "site", link: "http://www.osobnikoucka.cz"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gabriela-bohmova-acc-57a03723"}
