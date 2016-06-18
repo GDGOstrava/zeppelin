@@ -42,14 +42,63 @@
     - {name: "site", link: "http://www.marcellaza.com"}
     - {name: "linkedin", link: "https://cz.linkedin.com/in/marcellaza"}
 
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  title: "Android Program Committee"
-#  thumbnailUrl: .jpg
-#  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: ""}
-#    - {name: "twitter", link: ""}
-#    - {name: "github", link: ""}
+- 
+  id: 4
+  name: "Tobiáš"
+  surname: "Vybíral"
+  title: "Problem solver"
+  thumbnailUrl: tobiasvybiral.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/vybrii?lang=cs"}
+    - {name: "site", link: "http://symbolisti.cz"}
+- 
+  id: 5
+  name: "Filip"
+  surname: "Procházka"
+  title: "Hacker"
+  thumbnailUrl: filipprochazka.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/filipproch/"}
+- 
+  id: 6
+  name: "Lukáš"
+  surname: "Vaculík"
+  title: "FotoReportér"
+  thumbnailUrl: lukasvaculik.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/1/+LukášVaculík"}
+    - {name: "twitter", link: "https://twitter.com/D3VL3R"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lukasvaculik"}
+    - {name: "facebook", link: "https://www.facebook.com/vaculik.luk"}
+- 
+  id: 7
+  name: "Jakub"
+  surname: "Škvára"
+  title: "Vývojář se zájmem o business"
+  thumbnailUrl: jakubskvara.png
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/skvaros"}
+    - {name: "site", link: "http://www.jakubskvara.cz"}
+- 
+  id: 8
+  name: "Tomáš"
+  surname: "Bartusek"
+  title: "Tron"
+  thumbnailUrl: tomasbartusek.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BartusekTomas"}
+- 
+  id: 9
+  name: "Pavla"
+  surname: "Sýkorová"
+  title: ""
+  thumbnailUrl: pavlasykorova.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PavlaSýkorová"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/pavla-sýkorová-1a9332a1"}
