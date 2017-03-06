@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "GEGFest Praha 2016"
+title: "GEGFest Praha 2017"
 email: "gegfest@gegcr.cz"
 description: "GEG GEGFest"
 baseurl: ""
@@ -48,18 +48,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "GEGFest"}
  - {permalink: "/blog/", text: "Novinky"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/tym/", text: "Tým"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/OR8FFL", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
 rightNavigationButtons:
- - {link: "https://goo.gl/OR8FFL", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "GEGFest <typeout> 2016"
-eventDate: "14. května 2016"
+heroTitle: "GEGFest <typeout> 2017"
+eventDate: "13. května 2017"
 typeoutTextValues: '"Praha", "Česká republika"'
 typeoutFallback: "Praha"
 heroButtons:
@@ -68,7 +66,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://goo.gl/OR8FFL", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
 
 # About Block
 aboutTitle: "O GEGFestu"
@@ -110,9 +108,9 @@ eventAddressLocality: "Praha 1"
 eventAddressLocalityRegion: ""
 eventPostalCode: "11639"
 eventAddressCountry: "Czech Republic"
-eventStartTime: "2016-05-14T9:00"
+eventStartTime: "2017-05-13T9:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-05-14T20:00"
+eventEndTime: "2017-05-13T20:00"
 eventPlaceCoordinates: "50.079821, 14.420678"
 mapCenterCoordinates: "50.079821, 14.420678"
 mapMobileCenterCoordinates: "50.079821, 14.420678"
@@ -200,10 +198,10 @@ footerBlocks:
  -
   title: "Odkazy"
   links:
-   - {link: "http://www.gegcr.cz/", text: "GEG ČŘ"}
-   - {link: "https://docs.google.com/presentation/d/19wntRNH85wWPc3gC78L0ri_9i6Eoe2vRSNT5aaAliKQ/", text: "Představení GEGFestu"}
+   - {link: "http://www.gegcr.cz/", text: "GEG ČR"}
+   - {link: "http://www.praha2016.gegfest.cz", text: "GEGfest 2016"}
    - {link: "http://www.virtualni-prohlidky360.cz/projekty/PFUKPraha/_flash/VirtualTour_PFUKPraha.html", text: "Virtuální prohlídka Venue PedF UK"}
-   - {link: "https://drive.google.com/folderview?id=0B6Iazp_sUPbEUVJMbDR6T3NtSlU&usp=sharing", text: "Materiály z workshopů"}
+   - {link: "https://drive.google.com/drive/folders/0B6Iazp_sUPbEX01xR2toaURLMTg?usp=sharing", text: "Materiály z workshopů"}
 
 
 

@@ -1,5 +1,5 @@
 application: gegfestpraha
-version: praha2016
+version: praha2017
 runtime: python27
 api_version: 1
 threadsafe: true
