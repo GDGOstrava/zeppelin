@@ -3,6 +3,9 @@
 
 ### Jekyll ###
 _site/
+.DS_Store
+img/.DS_Store
+img/sprites/.DS_Store
 
 ### Sass ###
 .sass-cache
