@@ -2,4 +2,9 @@
   group: "Hlavní partner"
   elements: 
     - {name: "Pdf UK", description: "Pedagogická fakulta Univerzita Karlova", link: "https://www.pedf.cuni.cz/", imageUrl: "peduk.png"}
+-
+  group: "Další partneři"
+  elements: 
+    - {name: "Khanova škola", description: "Khanova škola", link: "https://khanovaskola.cz/", imageUrl: "khanovaskola.png"}
+    - {name: "Wikimedia ČR", description: "Wikimedia Česká republika", link: "https://www.wikimedia.cz", imageUrl: "Wikimedia_Czech.png"}    
 - 
