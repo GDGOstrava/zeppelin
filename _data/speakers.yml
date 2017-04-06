@@ -1,19 +1,18 @@
 - 
-  id: 2
-  name: "Radovan"
-  surname: "Jansa"
-  company: "GEG Novojičínsko"
-  title: "učitel, lektor Google Apps, veteran ORG GUG.cz"
-  bio: "Radovan pracuje na Gymnáziu v Novém Jičíně, kde v roce 2008 zavedl Google Apps. Od té chvíle se stal velkým propagátorem Google technologií ve výuce, spoluzaložil GEG Novojičínsko a stal se veterán organizátorem GUG.cz. Své zkušenosti rád předává dál, takže ho uvidíte na edu konferencích, nebo na školeních, které nabízí pro učitele po celé republice. Velkým koničkem je cestování a poznávání života v odlišných kulturách."
-  thumbnailUrl: jansa.png
+  id: 1
+  name: "Štěpánka"
+  surname: "Baierlová"
+  company: "GEG Sušice"
+  title: "učitelka"
+  bio: "V současné době pracuji jako učitelka matematiky, informatiky a programování na SOŠ v Praze. Již 15 let se věnuji vzdělávání pedagogů a pomáhám jim s integrací digitálních technologií do výuky. Ráda zkouším ve výuce nové věci a mou srdeční záležitostí je robotika, speciálně programování LEGO robotů, kterému se společně se svými studenty věnujeme v robotickém kroužku při SVČ v Sušici. V rámci skupiny GEG Sušice a Lipnické buňky projektu Jednoty školských informatiků podporovaného Google, se aktivně podílím na pořádání workshopů a přednášek nejen pro členy, ale i pro další zájemce z řad učitelů i širší veřejnosti."
+  thumbnailUrl: baierlova.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG Sušice"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/RadovanJansa"}
-    - {name: "linkedin", link: "http://cz.linkedin.com/in/radovanjansa"}
+    - {name: "google-plus", link: "https://plus.google.com/117035438657156738307"}
 - 
-  id: 3
+  id: 2
   name: "Petr"
   surname: "Caloň"
   company: "GEG Novojičínsko"
@@ -22,64 +21,112 @@
   thumbnailUrl: calon.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG Novojičínsko"}
   social: 
     - {name: "linkedin", link: "https://cz.linkedin.com/in/petrcalon"}
     - {name: "twitter", link: "https://twitter.com/CalonPetr"}
 - 
+  id: 3
+  name: "David"
+  surname: "Hawiger"
+  company: ""
+  title: "učitel, člen projektových týmů se zacílením na vzdělávání"
+  bio: ""
+  thumbnailUrl: hawiger.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DavidHawiger"}
+    - {name: "site", link: "http://digivzdelavani.jsi.cz/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/david-hawiger/"}
+- 
   id: 4
-  name: "Lenka"
-  surname: "Urbanová"
-  company: "GEG ČR"
-  title: "lektorka, konzultantka, spoluzakladatelka GUG.cz, veteran org GUG.cz"
-  bio: "Lenka je lektorka a konzultantka. Říká o sobě, že je „lingvistka, kterou přetáhly počítače”, a že „sbratřuje lidi a technologie“. Zabývá se metodikou e-learningu a online učení, s důrazem na spolupráci, sdílení a otevřené vzdělávání. Participuje na projektech zaměřených na technologie ve školách, na cloudové aplikace, mobilní zařízení a na řízení týmů a projektů pomocí online nástrojů. Ráda moderuje diskuze a webináře. Potřebu propojování, spolupráce a sdílení naplňuje ve znalostní komunitě učitelů - v GEG ČR (Google EDU Group ČR). Dle ankety provedené mezi GEGery tam má překrásnou roli: poňoukávatel, (ďábel) našeptávač."
-  thumbnailUrl: urbanova.png
+  name: "Radovan"
+  surname: "Jansa"
+  company: "GEG Novojičínsko"
+  title: "učitel, lektor Google Apps, veteran ORG GUG.cz"
+  bio: "Radovan pracuje na Gymnáziu v Novém Jičíně, kde v roce 2008 zavedl Google Apps. Od té chvíle se stal velkým propagátorem Google technologií ve výuce, spoluzaložil GEG Novojičínsko a stal se veterán organizátorem GUG.cz. Své zkušenosti rád předává dál, takže ho uvidíte na edu konferencích, nebo na školeních, které nabízí pro učitele po celé republice. Velkým koničkem je cestování a poznávání života v odlišných kulturách."
+  thumbnailUrl: jansa.png
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG Novojičínsko"}
   social: 
-    - {name: "linkedin", link: "http://cz.linkedin.com/in/lenkaurbanova"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+LenkaUrbanová/"}
+    - {name: "twitter", link: "https://twitter.com/RadovanJansa"}
+    - {name: "linkedin", link: "http://cz.linkedin.com/in/radovanjansa"}
 -
   id: 5
-  name: "Daniel"
-  surname: "Franc"
-  company: "Google"
-  title: "Globální programový manažer pro komunity"
-  bio: "Ještě než se stal Googlerem, působil v řadě komunit a patří mezi zakladatele GUG.cz, který jako první na světě začal propojovat lidi se zájmem o Googlí technologie. Nadšenec do vzdělávání, působil jako lektor firemních a učitelských kurzů, ale třeba i jako zážitkový pedagog nebo autor jedné z prvních webových e-learningových platforem. V současnosti v dresu Google pomáhá technicky orientovaným komunitám po celém světě propojovat lidi a společně se učit."
-  thumbnailUrl: francd.jpg
+  name: "Adam"
+  surname: "Jech"
+  company: "MakersLab"
+  title: "spoluzakladatelem 3D tiskové dílny MakersLab"
+  bio: "Adam Jech je spoluzakladatelem 3D tiskové dílny MakersLab sídlící v Pražských Holešovicích. Zabývá se již mnoho let technologiím 3D tvorby, hlavně 3D tisku. Také se zabývá vyučováním používání technologie 3D tisku a s ním spojenými technologiemi."
+  thumbnailUrl: jech.png
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/danfranc"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adam-jech-40001a6a/"}
+    - {name: "site", link: "http://www.makerslab.cz"}
 - 
   id: 6
-  name: "Tomáš"
-  surname: "Velecký"
-  company: "SW Developer v Tieto (Google for Work)"
-  bio: "Tomáš pracuje ve společnosti Tieto jako vývojář v Google for Work týmu, kde s kolegy řeší neřešitelné problémy za vydatné pomoci AppEngine, AppsScript, NodeJS, burgerů a piva. Mimo jiné dělá přednášky na témata týkajících se Google služeb a technologií."
-  thumbnailUrl: velecky.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/tomas-velecky/4/637/934"}
-    - {name: "google-plus", link: "https://plus.google.com/+TomášVelecký"}
-- 
-  id: 7
-  name: "Pavlína"
-  surname: "Hublová"
-  company: "GEG Učte s námi"
-  title: "lektorka"
-  bio: "Spoluzakladatelka GEG Učte s námi, PEPOUŠ, vedoucí resortního úkolu pro správu a rozvoj Metodického portálu RVP.CZ, lektorka činnostního učení."
-  thumbnailUrl: hublova.jpg
+  name: "Filip"
+  surname: "Jelínek"
+  company: "GEG Strakonice"
+  title: "učitel"
+  bio: "Učím na gymnáziu v Prachaticích informatiku a tělesnou výchovu. Řadu let pomáhám učitelům  zavádět moderní technologie do výuky. Jako lektor vedu pravidelně webináře a semináře se zaměřením na ICT ve výuce. V současné době také působím v GEG Strakonice."
+  thumbnailUrl: jelinek.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG Strakonice"}
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pavl%C3%ADna-hublov%C3%A1-40b66157"}
-    - {name: "google-plus", link: "https://plus.google.com/+Pavl%C3%ADnaHublov%C3%A1"}
-    - {name: "twitter", link: "https://twitter.com/pavkahu"}
-    - {name: "site", link: "http://inapadnik.blogspot.cz/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+FilipJelínek1"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/filip-jelínek-b54b6240/cs"}
+- 
+  id: 7
+  name: "Petra"
+  surname: "Jirůtková"
+  company: "Khanova škola"
+  title: "lektorka"
+  bio: "Studentka ekonomie a financí na IES FSV UK. Na Khanově škole má v současné době na starosti matematický obsah a spolupodílí se na organizaci veškerých akcí spolku. Kromě matematiky se ale ve volném čase věnuje i hře na klavír a sborové korepetici."
+  thumbnailUrl: jirutkova.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/petra-jir%25C5%25AFtkov%25C3%25A1-9036ba12a/"}
 -
   id: 8
+  name: "Miloslav"
+  surname: "Khas"
+  company: ""
+  title: "učitel"
+  bio: ""
+  thumbnailUrl: khas.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://miloslavkhas.blogspot.cz/"}
+-
+  id: 9
+  name: "Tomáš"
+  surname: "Kopec"
+  company: "GEG FM"
+  title: "učitel"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "GEG FM"}
+  social: 
+-
+  id: 10
+  name: "Josef"
+  surname: "Kupka"
+  company: "GEG Božena"
+  title: "zástupce ředitele, ICT metodik a koordinátor"
+  bio: "Pracuji jako zástupce ředitele, ICT metodik a koordinátor na základní škole Litoměřice, Boženy Němcové 2, kam jsem před 20 lety nastoupil. Baví mě Linux a v posledních letech i aplikace Google. Obojí se mi ve škole podařilo nasadit do ostrého provozu. Pro zájemce z řad kolegů a kolegyň vedu školní IT kroužek. S kamarádem jsem založil skupinu GEG Božena. Mám rád výlety s rodinou, cykloturistiku, rockovou muziku a dobré pivo."
+  thumbnailUrl: kupka.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "GEG Božena"}
+  social: 
+    - {name: "site", link: "https://gegbozena.blogspot.cz/"}
+-
+  id: 11
   name: "Jiří"
   surname: "Leipert"
   company: "GEG Praha"
@@ -93,7 +140,18 @@
     - {name: "google-plus", link: "https://plus.google.com/+JiriLeipert"}
     - {name: "site", link: "http://www.leipert.cz/"}
 -
-  id: 9
+  id: 12
+  name: "Michaela"
+  surname: "Mužíková"
+  company: "copytriky.cz"
+  title: "lektorka"
+  bio: "Michaela pomáhá firmám psát tak, aby jejich zákazníci četli. Nejčastěji společně tvoří webové stránky, šablony pro e-maily nebo třeba nastavují správný tón a styl. Tak, aby nové texty předávaly nejen správné informace, ale také emoce. Pracovala například na projektech pro Českou spořitelnu, pro start-up Tartaletka, nebo pro O2. O copywritingu zároveň bloguje v projektu copytriky.cz."
+  thumbnailUrl: muzikova.png
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://copytriky.cz/"}
+-
+  id: 13
   name: "Libor"
   surname: "Olbrich"
   company: "GEG FM"
@@ -102,225 +160,28 @@
   thumbnailUrl: olbrich.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG FM"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/liborolbrich"}
     - {name: "twitter", link: "https://twitter.com/libol"}
     - {name: "site", link: "http://www.sbirkaprikladu.eu/"}
 -
-  id: 10
-  name: "Martin"
-  surname: "Vonášek"
-  company: "GEG FM"
-  title: "učitel"
-  bio: "Učí na střední škole dějepis a mediální výchovu jako samostatný předmět. Společně se studenty usiluje o nabourání zažitých představ a stereotypů v oblasti dějin a médií. Snaží se různými způsoby rozvíjet kritické myšlení a squatovat moderní technologie v rámci výuky :) Pomáhá s GEG FM a má rád filmové kluby, trička A2 a časopis Cinepur…"
-  thumbnailUrl: vonasek.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+MartinVon%C3%A1%C5%A1ek"}
-    - {name: "twitter", link: "https://cz.linkedin.com/in/martin-von%25C3%25A1%25C5%25A1ek-27290317"}
--
-  id: 11
-  name: "Libuše"
-  surname: "Přibylová"
-  company: "GEG Strakonicko"
-  title: "učitelka"
-  bio: "Libuše pracuje jako ekonom na Gymnáziu Strakonice. Kromě číslíček ji zajímají také ICT technologie, takže si občas hraje i na správce počítačové sítě. I když, jak se často říká, nejvíce problémů s počítači je mezi židlí a klávesnicí. V roce 2015 se poprvé zúčastnila GEGfestu 2015 a to ji přivedlo ke většímu zájmu o Google aplikace a tak společně s kolegy v roce 2015 založili GEG Strakonicko. Jejím velkým koníčkem je rodina, cestování a sportovní aktivity."
-  thumbnailUrl: pribylovaa.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/libusepribylova"}
--
-  id: 12
-  name: "Václav"
-  surname: "Kůla"
-  company: "GEG Strakonicko"
-  title: "učitel AJ na Gymnáziu Strakonice"
-  bio: "Václav pracuje na Gymnáziu ve Strakonicích na plný úvazek jako učitel angličtiny. Kromě výuky se věnuje práci na různých vzdělávacích projektech. Od loňského roku spolupůsobí v GEG Strakonicko. Rád se učí nové věci a rád se o své poznatky i podělí."
-  thumbnailUrl: kula.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
--
-  id: 13
-  name: "Karel"
-  surname: "Moric"
-  company: "GEG My jsme Ludgeřovice"
-  title: "ředitel ZŠ a MŠ Ludgeřovice"
-  bio: "Pracuje jako ředitel na ZŠ a MŠ Ludgeřovice a stojí za zrodem GEG - My jsme Ludgeřovice. Zajímá se o ICT techniku obecně a rád jí zavádí do výuku. Naše škola je proto prošpikovaná technologiemi. Má rád nejen Google, ale také Apple :-)"
-  thumbnailUrl: moric.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/karel_moric"}
--
   id: 14
-  name: "Ludmila"
-  surname: "Kovaříková"
-  company: "GEG Učte s námi, GEG Brno"
-  title: "Lektorka"
-  bio: "Učitelka druhého stupně Základní školy ve Vranovicích. Člen skupin GEG Učte s námi a GEG Brno. Lektorka kurzů o čtenářské gramotnosti. Nadšenec do všeho, co se týká čtení a technologií."
-  thumbnailUrl: kovarikova.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "linkedin", link: "https://goo.gl/aNHhmZ"}
-    - {name: "twitter", link: " https://twitter.com/kovlud"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/102740162903132747889/posts"}
-    - {name: "site", link: "http://www.vyucovani.estranky.cz/"}
-    - {name: "site", link: "http://www.uctesnami.cz/"}
--
-  id: 15
-  name: "Jitka"
-  surname: "Rambousková"
-  company: "GEG Učte s nám"
-  title: "učitelka"
-  bio: "Hlavně učím na ZŠ, trochu se zapojuji v GEG Učte s námi, sem tam školím a také se pokouším starat o svůj web, komunity na G+, Pinterest, …"
-  thumbnailUrl: rambouskova.png
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "google-plus", link: "https://goo.gl/AEDdML"}
-    - {name: "site", link: "http://www.cojsemvyzkousela.cz/"}
-    - {name: "twitter", link: "https://twitter.com/JitkaRa"}
-    - {name: "site", link: "http://www.uctesnami.cz/"}
--
-  id: 16
-  name: "Štěpán"
-  surname: "Bechynský"
-  company: ""
-  title: "lektor"
-  bio: "Po skoro devíti letech opustil Štěpán Bechynský společnost Microsoft, kde pracoval jako Technical Evangelist se zaměřením na Microsoft Azure, a zakotvil v klidnějších vodách farmaceutické společnosti MSD, kde měl na starost infrastrukturu v Amazon Web Services. V klidných vodách získal titul MVP a vrátil se do společnosti Microsoft, kde se stará o IoT řešení v regionu CEE jako technický konzultant. Ve volných chvílích se věnuje mikrokontrolérům a 3D tisku a víkendy tráví nejraději u plotny nebo přednášením o Arduino."
-  thumbnailUrl: bechynsky.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://cz.linkedin.com/in/stepanbechynsky"}
-    - {name: "twitter", link: "https://twitter.com/stepanb"}
--
-  id: 17
   name: "Pavla"
   surname: "Sýkorová"
   company: "GEG Plzeň"
   title: "učitelka"
-  bio: "Spoluzakladatelka GEG Plzeň. Učím na základní škole v Plzni matematiku, zeměpis a informatiku. Několik let využívám ve výuce nejrůznější technologie. Jako lektor vedu semináře a webináře se zaměřením na efektivní využívání ICT ve výuce a finanční gramotnost."
+  bio: "Učím na základní škole v Plzni matematiku, zeměpis a informatiku. Několik let využívám ve výuce nejrůznější technologie. Jako lektor vedu semináře a webináře se zaměřením na efektivní využívání ICT ve výuce a finanční gramotnost. Spoluzakladatelka a autorka webu www.guruveskole.cz"
   thumbnailUrl: sykorova.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+    - {abbr: "GEG ČR", title: "GEG Plzeň"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PavlaSýkorová"}
     - {name: "linkedin", link: "https://cz.linkedin.com/in/pavla-sýkorová-1a9332a1"}
+    - {name: "site", link: "www.guruveskole.cz"}
 -
-  id: 18
-  name: "Bohuslav"
-  surname: "Hora"
-  company: "GEG Učte s námi"
-  title: "lektor"
-  bio: "Zástupce ředitele Základní školy Planá nad Lužnicí, okres Tábor. Apple professional development trainer. Propagátor využívání ICT ve výuce. člen Rady starších RVP.CZ. PEPOUŠ - pedagog postižený učitelským šílenstvím."
-  thumbnailUrl: hora.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+BohuslavPEPOU%C5%A0Hora/posts"}
-    - {name: "twitter", link: "https://twitter.com/kukuslav"}
-    - {name: "site", link: "http://www.uctesnami.cz/"}
--
-  id: 19
-  name: "Vojta"
-  surname: "Ciml"
-  company: "SlidesLive"
-  title: ""
-  bio: "Vojta Ciml je zakladatelem portálu SlidesLive, jež se snaží nahrát všechny přednášky na světě. Říká, že přednášky jsou jako víno, jejich historická hodnota s časem roste. Vzor má v Elonu Muskovi nebo Františku Křižíkovi. Ve volném čase staví rakety a snaží se sestrojit návratový modul."
-  thumbnailUrl: ciml.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "http://slideslive.com/"}
--
-  id: 20
-  name: "Patrik"
-  surname: "Kočí"
-  company: ""
-  title: "středoškolský učitel fyziky a chemie, manažer inovativních projektů ve školství"
-  bio: "Patrik se dlouhodobě věnuje implementaci různých inovativních metod při výuce přírodovědných předmětů. Vystupuje na konferencích, soutěžích a vytváří metodiky nových postupů při výuce. Patrik zavádí do výuky práci s Google Apps EDU, krátká přírodovědná videa, video řešené úlohy, e-learning, odbornou činnost či SlidesLive. Patrik je autorem metodik, za které získal různá ocenění – trojnásobný držitel 1. místa v projektech Moravskoslezského kraje Topík – o nejpoutavější projekt, 1. místa v soutěžích Pasco, Microsoft či MŠMT ČR."
-  thumbnailUrl: koci.jpg
-  rockstar: true
-  social: 
-      - {name: "site", link: "http://mossctyri.gnj.cz/"}
--
-  id: 21
-  name: "Alena"
-  surname: "Rajnochová"
-  company: ""
-  title: "učitelka"
-  bio: "Učí na I. stupni ZŠ, kde  obohacuje a modernizuje výuku používáním dotykových zařízení Apple iPad a připravuje tak své žáky na současný svět."
-  thumbnailUrl: rajnochova.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/101376221189914052943"}
--
-  id: 22
-  name: "Anna"
-  surname: "Martinková"
-  company: "GEG Praha"
-  title: "ředitelka gymnázia, lektorka Google Apps For Education v oboru Řízení, školský management VISK"
-  bio: "Anna je pátým rokem ředitelkou gymnázia v Říčanech, kde postupně zavedla užívání Google Apps nejprve při řízení školy, v týmové spolupráci mezi učiteli a v posledních dvou letech také mezi žáky. Věnuje se lektorské činnosti ve Vzdělávacím institutu Středočeského kraje, kde v  oboru Řízení, management školy vede od loňského roku kurzy “Řízení školy a moderní vzdělávání s využitím GAFE - I., II., III.” a předává své zkušenosti z praxe. Rovněž prezentuje toto téma na konferencích ředitelů gymnázií ČR, naposled ve Zlíně 16. 3. 2016, dříve pro ředitele škol od MŠ po SŠ Středočeského kraje v Nesuchyni a v Kutné Hoře. Věnuje se aktivitám v GEG Praha, sleduje dění v GEG Učte s námi a v dalších zajímavých komunitách. Google Apps používá s nadšením i v osobním životě přes různě  “chytrá” zařízení”. Její největší zálibou je degustace vína, volejbal na hřišti nebo na písku."
-  thumbnailUrl: martinkova.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "google-plus", link: "http://bit.do/martinkova-google-profil"}
-    - {name: "site", link: "http://www.gyri.cz"}
--
-  id: 23
-  name: "Filip"
-  surname: "Jelínek"
-  company: "GEG Strakonice"
-  title: "učitel"
-  bio: "Učím na gymnáziu v Prachaticích informatiku a tělesnou výchovu. Řadu let pomáhám učitelům  zavádět moderní technologie do výuky. Jako lektor vedu pravidelně webináře a semináře se zaměřením na ICT ve výuce. V současné době také působím v GEG Strakonice."
-  thumbnailUrl: jelinek.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+FilipJelínek1"}
-    - {name: "linkedin", link: "https://cz.linkedin.com/in/filip-jelínek-b54b6240/cs"}
--
-  id: 24
-  name: "Pavel"
-  surname: "Vondra"
-  company: "GEG Učte s námi"
-  title: "učitel dějepisu, občanské výchovy a informatiky na ZŠ Košťany, propagátor technologií ve výuce"
-  bio: "Projektujeme v regionální historii za pomoci technologií. Vnímají žáci dějiny a dějepis jako něco odtrženého od jejich života? Nechme je “prošlápnout si” historii jejich domova s pomocí moderních technologií. Podíváme se na využití QR kódů, mapových aplikací, prezentací Google, srovnávacích fotografií a audia při výuce dějin regionu."
-  thumbnailUrl: vondra.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
--
-  id: 25
-  name: "Petra"
-  surname: "Boháčková"
-  company: "GEG Učte s námi"
-  title: "učitelka"
-  bio: "Učitelka fyziky a angličtiny na ZŠ Dr. E. Beneše, Praha 9 - Čakovice. Ambasadorka etwinningu. Apple professional developement trainer. Apple distinguished Educator. Future classroom lab lead ambasador."
-  thumbnailUrl: bohackova.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/bohape"}
-    - {name: "google-plus", link: "https://plus.google.com/+PetraBoh%C3%A1%C4%8Dkov%C3%A1"}
-    - {name: "site", link: "http://www.uctesnami.cz/"}
--
-  id: 26
+  id: 15
   name: "Daniel"
   surname: "Tocháček"
   company: "GEG Praha"
@@ -333,3 +194,52 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DanielTochacek"}
     - {name: "site", link: "http://www.tochy.info/"}
+-
+  id: 16
+  name: "Lenka"
+  surname: "Urbanová"
+  company: "GEG ČR"
+  title: "lektorka, konzultantka, spoluzakladatelka GUG.cz, veteran org GUG.cz"
+  bio: "Lenka je lektorka a konzultantka. Říká o sobě, že je „lingvistka, kterou přetáhly počítače”, a že „sbratřuje lidi a technologie“. Zabývá se metodikou e-learningu a online učení, s důrazem na spolupráci, sdílení a otevřené vzdělávání. Participuje na projektech zaměřených na technologie ve školách, na cloudové aplikace, mobilní zařízení a na řízení týmů a projektů pomocí online nástrojů. Ráda moderuje diskuze a webináře. Potřebu propojování, spolupráce a sdílení naplňuje ve znalostní komunitě učitelů - v GEG ČR (Google EDU Group ČR). Dle ankety provedené mezi GEGery tam má překrásnou roli: poňoukávatel, (ďábel) našeptávač."
+  thumbnailUrl: urbanova.png
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "linkedin", link: "http://cz.linkedin.com/in/lenkaurbanova"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+LenkaUrbanová/"}
+-
+  id: 17
+  name: "Vojtěch"
+  surname: "Veselý"
+  company: "Wikimedia ČR"
+  title: "lektor a metodik"
+  bio: "Vojtěch je lektorem a metodikem Wikimedia ČR, kde se věnuje nejen vzdělávacím programům pro studenty, ale především projektu Senioři píší Wikipedii, jehož je spoluzakladatelem. Práci u počítače pak ve volném čase rád vyvažuje tancem."
+  thumbnailUrl: vesely.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.wikimedia.cz/web/U%C5%BEivatel:Vojt%C4%9Bch_Vesel%C3%BD"}
+- 
+  id: 18
+  name: "Alena"
+  surname: "Vlachová"
+  company: "Khanova škola"
+  title: "učitelka"
+  bio: "Alena Vlachová absolvovala obory Chemie přírodních látek a Specializace v pedagogice na VŠCHT v Praze. Od roku 2006 učí chemii a přírodopis na ZŠ Hanspaulka v Praze. Za nejvíce inspirativní pro svou praxi považuje kurzy Čtením a psaním ke kritickému myšlení, což ještě rozšířila o sledováním videí a diskutováním k myšlení v souvislostech. Zapojení digitální technologie do výuky a do své učitelské sebeorgenizace považuje za funční a zábavné pro ni i pro žáky."
+  thumbnailUrl: vlachova.jpg
+  rockstar: true
+  social: 
+-
+  id: 19
+  name: "Martin"
+  surname: "Vonášek"
+  company: "GEG FM"
+  title: "učitel"
+  bio: "Učí na střední škole dějepis a mediální výchovu jako samostatný předmět. Společně se studenty usiluje o nabourání zažitých představ a stereotypů v oblasti dějin a médií. Snaží se různými způsoby rozvíjet kritické myšlení a squatovat moderní technologie v rámci výuky :) Pomáhá s GEG FM a má rád filmové kluby, trička A2 a časopis Cinepur…"
+  thumbnailUrl: vonasek.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MartinVon%C3%A1%C5%A1ek"}
+    - {name: "twitter", link: "https://cz.linkedin.com/in/martin-von%25C3%25A1%25C5%25A1ek-27290317"}

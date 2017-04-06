@@ -48,15 +48,17 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "GEGFest"}
  - {permalink: "/blog/", text: "Novinky"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/tym/", text: "Tým"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "GEGFest <typeout> 2017"
+heroTitle: "GEGfest <typeout> 2017"
 eventDate: "13. května 2017"
 typeoutTextValues: '"Praha", "Česká republika"'
 typeoutFallback: "Praha"
@@ -66,7 +68,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/UlGtGVKNZXMfOCRx2", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
 
 # About Block
 aboutTitle: "O GEGFestu"

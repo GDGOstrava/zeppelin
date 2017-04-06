@@ -36,20 +36,6 @@
     - {name: "site", link: " http://www.leipert.cz/"}
 - 
   id: 3
-  name: "Pavlína "
-  surname: "Hublová"
-  title: ""
-  thumbnailUrl: hublova.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pavl%C3%ADna-hublov%C3%A1-40b66157"}
-    - {name: "google-plus", link: "https://plus.google.com/+Pavl%C3%ADnaHublov%C3%A1"}
-    - {name: "twitter", link: "https://twitter.com/pavkahu"}
-    - {name: "site", link: "http://inapadnik.blogspot.cz/"}
-- 
-  id: 4
   name: "Petr"
   surname: "Caloň"
   title: "Registrace, web"
@@ -62,13 +48,27 @@
     - {name: "twitter", link: "https://twitter.com/CalonPetr"}
     - {name: "site", link: "http://www.gegnovojicinsko.cz"}
 -
-  id: 5
-  name: "Libuše"
-  surname: "Přibylová"
-  title: "Organizace na místě"
-  thumbnailUrl: pribylovaa.jpg
+  id: 4
+  name: "Štěpánka"
+  surname: "Baierlová"
+  title: "Hry, soutěže, šílenosti"
+  thumbnailUrl: baierlova.jpg
   team: true
   ribbon: 
     - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/libusepribylova"}
+    - {name: "google-plus", link: "https://plus.google.com/117035438657156738307"}
+-
+  id: 5
+  name: "Daniel"
+  surname: "Tocháček"
+  title: "Organizace na místě"
+  thumbnailUrl: tochacek.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DanielTochacek"}
+    - {name: "site", link: "http://www.tochy.info/"}
+- 
+
