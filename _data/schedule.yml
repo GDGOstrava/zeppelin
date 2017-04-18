@@ -49,7 +49,7 @@
     - {
         startTime: "Aula",
         endTime: "",
-        sessionIds: [035, 009, 014, 019, 024]
+        sessionIds: [035, 009, 014, 034, 024]
     }
     - {
         startTime: "PC1",

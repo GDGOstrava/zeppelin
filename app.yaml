@@ -49,13 +49,13 @@ handlers:
   static_files: blog/odpoledni-program-kopie.html
   upload: odpoledni-program-kopie\.html$
 
-- url: /blog/posledni-novinka
-  static_files: blog/posledni-novinka.html
-  upload: posledni-novinka\.html$
+- url: /blog/prednasky
+  static_files: blog/prednasky.html
+  upload: prednasky\.html$
 
-- url: /blog/pravidla-souteze
-  static_files: blog/pravidla-souteze.html
-  upload: pravidla-souteze\.html$
+- url: /blog/workshopy
+  static_files: blog/workshopy.html
+  upload: workshopy\.html$
 
 - url: /blog/prednasky-cool
   static_files: blog/prednasky-cool.html
@@ -68,6 +68,10 @@ handlers:
 - url: /blog/khan-a-wiki
   static_files: blog/khan-a-wiki.html
   upload: khan-a-wiki\.html$
+
+- url: /blog/novy-gegfest2017
+  static_files: blog/novy-gegfest2017.html
+  upload: novy-gegfest2017\.html$
 
 - url: /
   static_files: index.html
