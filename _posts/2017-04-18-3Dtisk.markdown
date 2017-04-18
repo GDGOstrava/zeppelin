@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "3D tiskárny a jak na přípravu 3D modelů"
+date:   2017-04-18 12:00:00
+isStaticPost: false
+---
+
+Kamarádi z makerslab.cz nám představí 3D tiskárny a my si na ně (na ty tiskárny) budeme moci sáhnout a vyptat se kolem 3D tisku úplně na cokoli.
+Na workshopu, kterým nás provede Adam Jech, se naučíte připravit si 3D model k vytištění, dozvíte se, jak probíhá tisk na různých tiskárnách, z čehož se dá tisknout a kdy se to vyplatí. A to se vám… vyplatí :-)
+
+Váš gegfest tým :)
+

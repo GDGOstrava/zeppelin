@@ -68,7 +68,7 @@
   title: "Ozoboti s počítačem i bez"
   description: "Ozobot, malý robot „s českým <3“, toho dost umí od „narození“ - umí sledovat různě barevné čáry. Třeba nakreslené fixkou na obyčejný papír nebo prstem na tablet. Kromě sledování čáry má předprogramovanou i sadu příkazů, ale zároveň se může ještě mnohé naučit. Třeba poskládáním vlastních programů v Ozoblockly. Přijďte si vyzkoušet jak se s ním pracuje, zvládnete pomocí Ozobota dovézt náklad do skladu? Znáte hru Sokoban? Může malý robot hrát velké divadlo? Zkusíme si do „ozobotího“ světa přenést některé úkoly z toho našeho reálného, budeme kreslit, stříhat, lepit, hrát si, a trošku i kódovat s počítačem i bez."
   subtype: workshop
-  speakers: [1]
+  speakers: [1, 25]
   complexity: "Základní"
 -
   id: 009
@@ -145,7 +145,7 @@
   title: "Google formuláře"
   description: "Anotace se připravuje."
   subtype: workshop
-  speakers: [23]
+  speakers: []
   language: cz
   complexity: "Advanced"
 -
@@ -160,7 +160,7 @@
   title: "Tvorba her ve Scratchi"
   description: "Při výuce algoritmizace a programování využíváme vizuální programovací jazyk Scratch, který je díky grafickému prostředí velice intuitivní a dá se využít pro každou věkovou skupinu. Naše studenty nejvíce zaujala tvorba her, proto si v rámci workshopu ukážeme, jak jednoduchou hru vytvořit. Začneme tvorbou scénáře, přidáme postavy a poté vše rozpohybujeme a naučíme vzájemné interakci."
   subtype: workshop
-  speakers: [1]
+  speakers: [1, 25]
   complexity: "Základní"
 -
   id: 022
@@ -250,7 +250,7 @@
 -
   id: 035
   title: "Informatické myšlení"
-  description: "Anotace se připravuje"
+  description: "Technika na každém kroku je známý a jasný důvod pro výuku informatiky. Je tu ale ještě další, méně nápadný důvod. Znalost informatiky zpřístupňuje velmi užitečný, ale dosud také vzácný způsob myšlení. Zatímco v jiných oblastech se učíme správně použít daný hotový postup, v informatice se učíme, jak takový správný postup vytvořit. A zatímco v jiných oblastech použijeme prostě ten jeden známý postup, v informatice jich porovnáme několik a zvolíme ten nejefektivnější. Mezi nezastupitelné úkoly všeobecného vzdělávání proto patří i rozvoj tohoto tzv. informatického myšlení. Na workshopu si jej blíže představíme a prozkoumáme na příkladech aktivit, které lze použít i ve výuce."
   subtype: workshop
   speakers: [23]
 -
@@ -258,4 +258,4 @@
   title: "AppScript"
   description: "Staráte se ve škole o Google Apps? S AppsScriptem to bude hračka. Ušetříte obrovské množství času při vytváření uživatelů, přiřazovaní do skupin nebo organizačních jednotek. Pomocí skriptů můžete např. také elegantně spravovat Učebnu Google."
   subtype: workshop
-  speakers: [23]
+  speakers: [24]

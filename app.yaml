@@ -73,6 +73,10 @@ handlers:
   static_files: blog/novy-gegfest2017.html
   upload: novy-gegfest2017\.html$
 
+- url: /blog/3Dtisk
+  static_files: blog/3Dtisk.html
+  upload: 3Dtisk\.html$
+
 - url: /
   static_files: index.html
   upload: index\.html$

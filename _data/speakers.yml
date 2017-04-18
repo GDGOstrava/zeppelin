@@ -285,8 +285,8 @@
   name: "Dan"
   surname: "Lessner"
   company: ""
-  title: ""
-  bio: ""
+  title: "učitel"
+  bio: "Jsem učitel informatiky. Odučil jsem několik let na různých pražských gymnáziích, teď dokončuji doktorát na MFF UK, k čemuž patří i sepsání učebnice informatiky. Kromě toho se podílím se na zavádění informatiky do škol, pomáhám s organizací Bobříka informatiky, vedu projekt Informatikáři informatikářům, v roli ambasadora kampaně Code Week propaguji výuku programování. Společným jmenovatelem mých aktivit je informatické myšlení a informatika ve školách, nebo spíš to, že tam oboje chybí."
   rockstar: true
   ribbon:
   social:
@@ -301,3 +301,13 @@
   rockstar: true
   ribbon:
   social: 
+-
+  id: 25
+  name: "Hanka"
+  surname: "Šandová"
+  company: "Gymnázium Jana Keplera"
+  title: "učitelka"
+  bio: "Učitelka informatiky na nižším i vyšším gymnáziu. Vede nepovinný předmět IT klubovna se zaměřením na robotiku, hravé programování, 3D modelování a 3D tisk. V rámci Lipnické buňky projektu Jednoty školských informatiků podporovaného Google, se aktivně podílí na pořádání workshopů nejen pro členy, ale i pro další zájemce z řad učitelů."
+  thumbnailUrl: sandova.jpg
+  rockstar: true
+  ribbon:
