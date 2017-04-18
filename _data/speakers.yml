@@ -70,7 +70,7 @@
   surname: "Jelínek"
   company: "GEG Strakonice"
   title: "učitel"
-  bio: "Učím na gymnáziu v Prachaticích informatiku a tělesnou výchovu. Řadu let pomáhám učitelům  zavádět moderní technologie do výuky. Jako lektor vedu pravidelně webináře a semináře se zaměřením na ICT ve výuce. V současné době také působím v GEG Strakonice."
+  bio: "Učím na gymnáziu v Prachaticích informatiku a tělesnou výchovu. Řadu let pomáhám učitelům  zavádět moderní technologie do výuky. Jako lektor vedu pravidelně webináře a semináře se zaměřením na ICT ve výuce a robotiku. Spoluzakladatel a autor webu www.guruveskole.cz."
   thumbnailUrl: jelinek.jpg
   rockstar: true
   ribbon:
@@ -78,6 +78,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FilipJelínek1"}
     - {name: "linkedin", link: "https://cz.linkedin.com/in/filip-jelínek-b54b6240/cs"}
+    - {name: "site", link: "http://www.guruveskole.cz"}
 - 
   id: 7
   name: "Petra"
@@ -93,9 +94,9 @@
   id: 8
   name: "Miloslav"
   surname: "Khas"
-  company: ""
+  company: "GEG Učte s námi"
   title: "učitel"
-  bio: ""
+  bio: "V Základní škole Staňkov (okr. Domažlice) učím informatiku a hudební výchovu na 2. stupni. Poslední rok se zabývám, mimo jiné, formativním hodnocením žáků a s tím související zpětnou vazbou. Snažím se o zapojování a integraci IT do vzdělávání, především pak jejich smysluplnému využití napříč předměty. Výsledky své práce publikuji na svém blogu, na sociálních sítích a na odborných portálech. Jsem členem skupiny GEG Učte s námi. Účastním se se svými žáky mezinárodních projektů prostřednictvím portálu eTwinning a jsem koordinátorem celostátního setkávání učitelů ve Staňkově “Ta učí tak a ten zas takhle”."
   thumbnailUrl: khas.jpg
   rockstar: true
   social: 
@@ -106,7 +107,7 @@
   surname: "Kopec"
   company: "GEG FM"
   title: "učitel"
-  bio: ""
+  bio: "Učím na soukromé střední škole PrimMat ve Frýdku – Místku matematiku, přírodní vědy a tělesnou výchovu. Zajímám se o výukové aktivity komunitního a nekomerčního charakteru. Jako  lektor vedu semináře k programu GeoGebra, jsem spoluautorem komunitního projektu sbirkaprikladu.eu. Ve volném čase se věnuji sportu a výletům do přírody."
   thumbnailUrl: 
   rockstar: true
   ribbon:
@@ -179,7 +180,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PavlaSýkorová"}
     - {name: "linkedin", link: "https://cz.linkedin.com/in/pavla-sýkorová-1a9332a1"}
-    - {name: "site", link: "www.guruveskole.cz"}
+    - {name: "site", link: "http://www.guruveskole.cz"}
 -
   id: 15
   name: "Daniel"
@@ -243,3 +244,60 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+MartinVon%C3%A1%C5%A1ek"}
     - {name: "twitter", link: "https://cz.linkedin.com/in/martin-von%25C3%25A1%25C5%25A1ek-27290317"}
+-
+  id: 20
+  name: "Mira"
+  surname: "Friedrichová"
+  company: "GEG"
+  title: "učitelka"
+  bio: "Učím informatiku na Gymnáziu v Praze 5 Na Zatlance a zajímám se nové trendy v technice i pedagogice, jsem členem přípravného týmu alternativního programu ALT a našem gymnáziu. Řadu let jsem působila jako analytik a školitel ve vlastní malé softwarové firmě. Lektorovala jsem v různých školách a kursech. Vystudovala fotografii. Poté jsem se rozhodla pro radikální změnu svého profesního zaměření, protože jsem konečně chtěla dělat to, co mě baví - tedy učit. Jsem členem profesních sdružení Jednota školských informatiků a Google Education Group ČR."
+  thumbnailUrl: friedrichova.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social: 
+    - {name: "site", link: "https://prezi.com/ckingc07ae96/predstaveni/?utm_campaign=share&utm_medium=copy"}
+-
+  id: 21
+  name: "Roman"
+  surname: "Podlena"
+  company: "GEG"
+  title: "učitel"
+  bio: "Učím na Gymnáziu Matyáše Lercha v Brně matematiku a informatiku. V roce 2010 jsme ve škole zavedli Google Apps (Google Suite), které se od té doby snažíme využívat víc a víc. Zajímám se o nové trendy v oblasti IT a v rámci Lipnické buňky projektu Informatikáři informatikářům se aktivně podílím na přípravě různých přednášek a workshopů. Množství času stráveného u počítačů si vynahrazuji pobytem na ledě při curlingu, který je mou srdeční záležitosti."
+  thumbnailUrl: podlena.png
+  rockstar: true
+  ribbon:
+    - {abbr: "GEG ČR", title: "Google EDU Group Česká republika"}
+  social:
+-
+  id: 22
+  name: "Věra"
+  surname: "Růžičková"
+  company: "Gymnázium Na Zatlance"
+  title: "učitelka"
+  bio: "RNDr. Věra Růžičková vystudovala jsem obor učitelství biologie - matematika na PřF UK, kde jsem v roce 1990 získala doktorát přírodních věd. V minulosti jsem působila jako učitel na několika středních školách, v  současné době již devátým rokem vyučuji na Gymnáziu Na Zatlance, kde společně s kolegy připravuji nový vzdělávací program ALT. Kromě tradičních předmětů biologie a matematika vedu i semináře zaměřené na práci se stresem a vlastním tělem (seminář relaxačních technik). Absolvovala jsem řadu metodických kurzů moderních vyučovacích metod (Čtením a psaním ke kritickému myšlení), zabývám se motivací studentů ke studiu, hledáním efektivních vyučovacích metod. Jsem tvořivá a baví mě prostě učit jinak než je zvykem."
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 23
+  name: "Dan"
+  surname: "Lessner"
+  company: ""
+  title: ""
+  bio: ""
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 24
+  name: "Tomáš"
+  surname: "Velecký"
+  company: "SW Developer v Tieto"
+  title: "lektor"
+  bio: "Tomáš pracuje ve společnosti Tieto jako vývojář v Google for Work týmu, kde s kolegy řeší neřešitelné problémy za vydatné pomoci AppEngine, AppsScript, NodeJS, burgerů a piva. Mimo jiné dělá přednášky na témata týkajících se Google služeb a technologií."
+  thumbnailUrl: velecky.png
+  rockstar: true
+  ribbon:
+  social: 

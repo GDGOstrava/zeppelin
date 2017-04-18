@@ -49,12 +49,12 @@
     - {
         startTime: "Aula",
         endTime: "",
-        sessionIds: [004, 009, 014, 018, 023]
+        sessionIds: [035, 009, 014, 019, 024]
     }
     - {
         startTime: "PC1",
         endTime: "",
-        sessionIds: [005, 010, 033, 034, 024]
+        sessionIds: [005, 010, 033, 018, 023]
     }
     - {
         startTime: "PC2",
@@ -70,6 +70,11 @@
         startTime: "PC4",
         endTime: "",
         sessionIds: [008, 013, 017, 022, 028]
+    }
+    - {
+        startTime: "PC5",
+        endTime: "",
+        sessionIds: [036]
     }
   notes:
     - {description: "Afterpárty se uskuteční od 17:00 v prostorách Auly. Budeme rádi, pokud se všichni zúčastníte.", text: "Nahoru"}

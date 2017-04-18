@@ -45,7 +45,7 @@
 -
   id: 005
   title: "Učebna Google"
-  description: "Anotace se připravuje"
+  description: "Může nám Učebna Google (Google Classroom) zjednodušit práci s ICT ve škole? V čem spočívá rozdíl mezi využíváním “pouhého” Google Suite For Education a “k tomu navíc” Google Classroom? Má smysl používat Google Classroom na ZŠ? Funguje Google Classroom jako apka na Androidu? Losnu nebo Mažňáka, neboli Google Classroom nebo Moodle? Nejen na tyto otázky se pokusíme najít odpovědi na workshopu Učebna Google (Google Classroom). Učebnu si představíme a vyzkoušíme skrze internetový prohlížeč na počítači i aplikaci v O. S. Android, a to z pozice studenta i učitele jako nástroj pro efektivní práci, sdílení, plánování a učení! Při práci na PC v učebně není potřeba žádné vlastní ICT vybavení, pro testování aplikace na O. S. Android je žádoucí mít vlastní tablet nebo smartphone."
   subtype: workshop
   speakers: [15]
   complexity: "Základní/Pokročilá"
@@ -59,9 +59,9 @@
 -
   id: 007
   title: "Jak jsme přistáli na planetě Zemi"
-  description: "Anotace se připravuje"
+  description: "Na workshopu prozradíme, jak jsme se s kolegyní a studenty 2. ročníků IKT (předmět informatika) v září 2016 „objevili“ ve sklepě budovy naší školy. Co jsme od té doby zrealizovali a jak se nám to povedlo. Ukážeme, co jsou palubní deníky, jakou mají funkci, vysvětlíme metodiku a smysl projektu Člověk na Zemi. Pracujeme v prostředí Google Classroom, používáme běžně dostupné nástroje pro tvorbu webových stránek, brožurek, plakátků,… Máme zkušenosti s tandemovou výukou, o které se rádi podělíme. Těžištěm naší výuky je princip „zeptej se svého kamaráda“, který současná generace používá velmi přirozeně už od „plínek“."
   subtype: workshop
-  speakers: [21]
+  speakers: [22]
   complexity: "Základní"
 -
   id: 008
@@ -72,8 +72,8 @@
   complexity: "Základní"
 -
   id: 009
-  title: "Chromebooky"
-  description: "Anotace se připravuje."
+  title: "Chromebook - ideální počítač do školy"
+  description: "“Chromebooky válcují trh. Polovinu počítačů pořizovaných školami tvoří chromebooky. Chromebooky překonaly prodeje Apple zařízení” - to jsou příklady nadpisů popisujících prodej počítačů v USA v oblasti školství. V Česku jsou chromebooky neprávem opomíjeny, přitom pro využití ve školách jsou naprosto ideální. Na workshopu si představíme chromebooky ideální pro školy a ukážeme si jejich výhody a nevýhody. Nahlédneme pod pokličku dálkové správy zařízení, která nadchne nejednoho správce IT. A také si představíme využití chromebooků v praxi konkrétních škol, které již v Česku chromebooky nasadily."
   subtype: workshop
   speakers: [4]
   complexity: "Základní"
@@ -94,7 +94,7 @@
 -
   id: 012
   title: "Scratch Jr na Androidu"
-  description: "Anotace se připravuje."
+  description: "Ještě neumí číst,ale už umí programovat. Nemožné? Ne! Možné! S mladším bratříčkem známého programovacího prostředí Scratch dokáží už i malí programátoři divy. V průběhu workshopu se seznámíme s aplikací Scratch Jr pro Android, vytvoříme si prostředí, postavy a vše propojíme v programu, který si sami poskládáme z ikonických stavebních prvků. Algoritmizace a programování je v aplikaci Scratch Jr tak snadná, že ji zvládnou (nejen) prvňáčci. Pro práci s aplikací během workshopu je vlastní tablet nebo smartphone s Androidem nutností."
   subtype: workshop
   speakers: [15]
   complexity: "Základní"
@@ -121,10 +121,10 @@
   complexity: "Základní"
 -
   id: 016
-  title: "Algoritmicky myslet"
-  description: "Anotace se připravuje."
+  title: "AL - MY (algoritmicky myslet)"
+  description: "Na workshopu si letem světem ukážeme řadu SW nástrojů, které učí žáky “programovat” (spíše algoritmicky myslet) a které můžeme již zítra vyzkoušet ve výuce. Ukážeme si, jak naprogramovat hru (Scratch, Ozobot, Blockly, Tynker, CodeMonkey, Game Maker), jak naprogramovat aplikaci na mobil (AppInventor) a jak trénovat řešení problémů (Problém Solving Tutor, Bobřík informatiky)."
   subtype: workshop
-  speakers: [22]
+  speakers: [20]
   complexity: "Základní"
 -
   id: 017
@@ -151,21 +151,21 @@
 -
   id: 020
   title: "Videohry ve výuce mediální výchovy"
-  description: "Anotace se připravuje."
+  description: "Jedním z cílů mediální výchovy je snaha překonávat stereotypní myšlení a sociální bubliny, které výrazně modelují naše představy o světě. Jednou z možných cesta jak objevit jiné "sociální bubliny" je hraní her - v našem případě si zahrajeme online hru Ghettout, ukážeme si jakým způsobem můžeme hru využít k práci se stereotypními představami o chudobě a sociálním vyloučení. Vedle samotné hry se zaměříme i na možné otázky a způsob jejich kladení hráčům prostřednictvím pracovního listu. Po hraní a vyplnění pracovního listu bychom se podívali na teoretické vymezení počítačových her ve výuce - co nám můžou přinést přednášky studentů o hrách, které hrají a jak lze pojmout hodinu mediální výchovy věnované videohrám. Přijďte si zahrát, zapojit se a diskutovat o interaktivních světech okolo nás."
   subtype: workshop
   speakers: [19]
   complexity: "Základní"
 -
   id: 021
-  title: "Programování her ve Scratchi"
-  description: "Anotace se připravuje."
+  title: "Tvorba her ve Scratchi"
+  description: "Při výuce algoritmizace a programování využíváme vizuální programovací jazyk Scratch, který je díky grafickému prostředí velice intuitivní a dá se využít pro každou věkovou skupinu. Naše studenty nejvíce zaujala tvorba her, proto si v rámci workshopu ukážeme, jak jednoduchou hru vytvořit. Začneme tvorbou scénáře, přidáme postavy a poté vše rozpohybujeme a naučíme vzájemné interakci."
   subtype: workshop
   speakers: [1]
   complexity: "Základní"
 -
   id: 022
   title: "Formativně s formative"
-  description: "Anotace se připravuje."
+  description: "Také máte problém se sumativním, konečným hodnocením žáků? Osobně to nepovažuji ani za nutné ani za důležité. Chtěl bych se naučit žáky spíše provádět problémem a posouvat je tak, aby uměli o nových věcech sami přemýšlet. Učitelé informatiky většinou bojují s nedostatečnou hodinovou dotací svého předmětu. Aplikace Formative může být nástrojem, který vám tento handicap pomůže alespoň částečně vyrovnat."
   subtype: workshop
   speakers: [8]
   complexity: "Základní"
@@ -199,15 +199,15 @@
   complexity: "Základní"
 -
   id: 027
-  title: "Lego robotika (NXT, WeDo)"
-  description: "Anotace se připravuje."
+  title: "Lego WeDo robotika"
+  description: "Přijďte se přesvědčit o tom, že známé heslo “Kdo si hraje, nezlobí!” stále platí! Tedy alespoň je-li po ruce edurobotická sada Lego WeDo. Po loňské ukázce sad NXT pro starší a pokročilé uživatele se na letošním GEGfestu zaměříme na sady pro mladší příznivce robotiky a začátečníky. Workshop umožní návštěvníkům vyzkoušet si prostřednictvím jednoduchých úloh práci s robotickými sadami LEGO WeDo, které jsou primárně určeny pro žáky vyšších ročníků 1. stupně ZŠ. Z kostiček si postavíme model, připojíme senzory, motory, řídící prvky, robota naprogramujeme v ikonickém SW LEGO WeDo a rozpohybujeme ho. Ukážeme si i další možnosti edukační robotiky s podporou produků LEGO (sady NXT 2.0. a EV3)."
   subtype: workshop
   speakers: [15]
   complexity: "Základní"
 -
   id: 028
   title: "Testování není jenom ověřování"
-  description: "Chápeme, že většině učitelů při zmínce o testech vyskočí pupínky. Ale pojďme se na testy podívat jinak - jako na integrální součást výuky - pomoc při opakování, upevňování, pomoc žákům, kteří jsou nemocní, nestíhají .... nebo jen prostě mají ambici na lepší známku. Tomáš Kopec promluví z pohledu dlouholetého uživatele testů pro podporu výuky. Ukáže možnosti, ale i hranice. Bude mluvit jako matikář - i tam jde testy použít."
+  description: "V posledních letech se stalo testování žáků rozšířeným fenoménem. Vzhledem k vysokému počtu různých testů a také společností, které je nabízejí, má v důsledku toho řada učitelů oprávněný názor, že je „přetestováno“ a nezbývá prostor pro běžnou výuku a běžné ověření vědomostí. Pokusme se ale na testy ve webovém prostředí podívat jako na nástroj, který při racionálním využití může posloužit nejen jako kontrolní, ale především jako vzdělávací prostředek. Podívejme se pak společně jak (v oblasti matematiky) může test posloužit žákům i učitelům ke zvýšení efektivity vzdělávacího procesu."
   subtype: workshop
   speakers: [9]
   complexity: "Základní"
@@ -220,7 +220,7 @@
 -
   id: 030
   title: "Registrace"
-  description: ""
+  description: "Pro dobrý start naší konfernce bude připravena lehká snídaně (čaj, kafe, koláčky)."
   subtype:
   speakers:
 -
@@ -238,12 +238,24 @@
 -
   id: 033
   title: "Umělá inteligence v prostředí G Suite"
-  description: "Anotace se připravuje."
+  description: "Proč trávit čas nad něčím, co za nás může udělat stroj, tedy přesněji umělá inteligence? “Jako učitel se chci zaměřit na obsah prezentace a metodické pojetí hodiny a ne zbytečně trávit čas nad tvorbou designu prezentace. Jako třídní učitel mám stovky a tisíce fotek z různých školních akcí a výletů a nemám čas z nich dělat alba a fotky popisovat nebo třídit.” To jsou jen drobné příklady toho, jak nám může umělá inteligence a strojové učení pomoci s rutinními činnostmi ve škole. Google totiž postupně začíná umělou inteligenci zavádět do různých produktů G Suite pro vzdělávání."
   subtype: workshop
   speakers: [4]
 -
   id: 034
   title: "Google formuláře"
-  description: "Anotace se připravuje."
+  description: "V rámci našeho workshopu se podrobněji podíváme na možnosti Google formulářů. Vytvoříme si formulář (dotazník, test) s různými typy otázek. Ukážeme si možnosti nastavení formuláře, jeho možná rozšíření, doplňky a způsoby distribuce. Podíváme se na formy zobrazení odpovědí, jejich zpracování a publikování."
   subtype: workshop
-  speakers: []
+  speakers: [21]
+-
+  id: 035
+  title: "Informatické myšlení"
+  description: "Anotace se připravuje"
+  subtype: workshop
+  speakers: [23]
+-
+  id: 036
+  title: "AppScript"
+  description: "Staráte se ve škole o Google Apps? S AppsScriptem to bude hračka. Ušetříte obrovské množství času při vytváření uživatelů, přiřazovaní do skupin nebo organizačních jednotek. Pomocí skriptů můžete např. také elegantně spravovat Učebnu Google."
+  subtype: workshop
+  speakers: [23]

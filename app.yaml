@@ -65,9 +65,9 @@ handlers:
   static_files: blog/registrace.html
   upload: registrace\.html$
 
-- url: /blog/Dan-Franc
-  static_files: blog/Dan-Franc.html
-  upload: Dan-Franc\.html$
+- url: /blog/khan-a-wiki
+  static_files: blog/khan-a-wiki.html
+  upload: khan-a-wiki\.html$
 
 - url: /
   static_files: index.html
