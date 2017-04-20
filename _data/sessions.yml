@@ -165,7 +165,7 @@
 -
   id: 022
   title: "Formativně s formative"
-  description: "Také máte problém se sumativním, konečným hodnocením žáků? Osobně to nepovažuji ani za nutné ani za důležité. Chtěl bych se naučit žáky spíše provádět problémem a posouvat je tak, aby uměli o nových věcech sami přemýšlet. Učitelé informatiky většinou bojují s nedostatečnou hodinovou dotací svého předmětu. Aplikace Formative může být nástrojem, který vám tento handicap pomůže alespoň částečně vyrovnat."
+  description: "Nelíbí se vám známkování? Berete chybu jako přirozenou součást učení, chcete vyučování co nejvíce individualizovat, z učitele se stáváte průvodcem, snažíte se přenést zodpovědnost za vzdělání na vaše žáky, pak se na vás budu těšit. Ukážeme si, jak nám mohou informační technologie pomoci při naší práci s dětmi. Představíme si aplikaci Formative, která dává žákům nejen okamžitou zpětnou vazbu (jako mnoho dalších aplikací), ale nabízí toho ještě mnohem více."
   subtype: workshop
   speakers: [8]
   complexity: "Základní"
