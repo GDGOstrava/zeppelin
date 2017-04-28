@@ -1,5 +1,5 @@
 application: gegfestpraha
-version: praha2017-01
+version: praha2017
 runtime: python27
 api_version: 1
 threadsafe: true
@@ -76,6 +76,14 @@ handlers:
 - url: /blog/3Dtisk
   static_files: blog/3Dtisk.html
   upload: 3Dtisk\.html$
+
+- url: /blog/copywriting
+  static_files: blog/copywriting.html
+  upload: copywriting\.html$
+
+- url: /blog/ohlednuti
+  static_files: blog/ohlednuti.html
+  upload: ohlednuti\.html$
 
 - url: /
   static_files: index.html
