@@ -6,4 +6,4 @@ isStaticPost: false
 ---
 
 Milujeme GEGfest! Ten loňský byl... no podívejte se sami - kompletní fotogalerie: 
-https://goo.gl/fWaCfc.
+[Google Photos](https://goo.gl/fWaCfc)

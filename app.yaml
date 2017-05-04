@@ -85,6 +85,14 @@ handlers:
   static_files: blog/ohlednuti.html
   upload: ohlednuti\.html$
 
+- url: /blog/pravidla
+  static_files: blog/pravidla.html
+  upload: pravidla\.html$
+
+- url: /blog/velky-klaun
+  static_files: blog/velky-klaun.html
+  upload: velky-klaun\.html$
+
 - url: /
   static_files: index.html
   upload: index\.html$

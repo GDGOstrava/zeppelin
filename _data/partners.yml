@@ -1,7 +1,7 @@
 - 
   group: "Hlavní partner"
   elements: 
-    - {name: "Pdf UK", description: "Pedagogická fakulta Univerzita Karlova", link: "https://www.pedf.cuni.cz/", imageUrl: "peduk.png"}
+    - {name: "Pdf UK", description: "Pedagogická fakulta Univerzita Karlova", link: "https://www.pedf.cuni.cz/", imageUrl: "PedFUK.jpg"}
 -
   group: "Další partneři"
   elements: 

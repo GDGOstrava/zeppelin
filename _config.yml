@@ -71,7 +71,7 @@ heroButtons:
  - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
 
 # About Block
-aboutTitle: "O GEGFestu"
+aboutTitle: "O GEGfestu"
 aboutBlock:
  - {title: "Konference", image: "conference.png", text: "<strong>Největší konference o technologiích Google ve vzdělávání v České republice.</strong> Program nabitý praktickými zkušenostmi, metodikou a hlavně nekonečnou inspirací, jak zefektivnit a inovovat výuku. Konference učitelů (nejen) pro učitele, pro které jsou moderní technologie výzvou, ale i cestou k obohacení výuky.</br>Vstup je vždy zdarma, registrace je však nezbytná." }
  - {title: "Přednášky", image: "presentation.png", text: "Dopolední program naplní několik přednášek s tématy z různých oblastí okolo technologií, vzdělávání a moderních trendů ve výuce. Pozvali jsme velmi zajímavé hosty, od kterých lze vždycky očekávat pěknou dávku inspirace. Těšíme se na ně!" }
@@ -83,7 +83,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "", info: "účastníků", detail: ""}
  - {count: "1", specialCharacter: "", info: "den", detail: ""}
- - {count: "20", specialCharacter: "", info: "workshopů", detail: ""}
+ - {count: "27", specialCharacter: "", info: "workshopů", detail: ""}
 
 
 # About Block
