@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Omluva se za chybný odkaz"
+date:   2017-05-07 10:00:00
+isStaticPost: false
+---
+
+Rádi bychom se vám omluvili za chybný odkaz, který jste od nás obdrželi v posledním mailu o registraci na workshopy. Nedopatřením v odkazu na seznam workshopů se omylem ztratilo lomítko, čímž se celý odkaz stal nefuknční. Přijměte, prosím, naši omluvu za případné komplikace, které Vám tímto nastaly. 
+Náš GEG, milí účastníci, se vám mými ústy (správce webu) co nejsrdečněji omlouvá za toto politováníhodné nedopatření, ke kterému dochází maximálně jednou... jednou za 10 let.
+
+Seznam workshopů je stále dostupný na adrese: [http://www.gegfest.cz/schedule/](http://www.gegfest.cz/schedule/)

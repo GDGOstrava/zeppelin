@@ -93,6 +93,18 @@ handlers:
   static_files: blog/velky-klaun.html
   upload: velky-klaun\.html$
 
+- url: /blog/omluva
+  static_files: blog/omluva.html
+  upload: omluva\.html$
+
+- url: /blog/wikipedie
+  static_files: blog/wikipedie.html
+  upload: wikipedie\.html$
+
+- url: /blog/khanova-skola
+  static_files: blog/khanova-skola.html
+  upload: khanova-skola\.html$
+
 - url: /
   static_files: index.html
   upload: index\.html$
