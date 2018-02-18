@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "GEGFest Praha 2017"
+title: "GEGFest Praha 2018"
 email: "gegfest@gegcr.cz"
 description: "GEG GEGFest"
 baseurl: ""
@@ -48,18 +48,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "GEGFest"}
  - {permalink: "/blog/", text: "Novinky"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Řečníci"}
  - {permalink: "/tym/", text: "Tým"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "GEGfest <typeout> 2017"
-eventDate: "13. května 2017"
+heroTitle: "GEGfest <typeout> 2018"
+eventDate: "12. května 2018"
 typeoutTextValues: '"Praha", "Česká republika"'
 typeoutFallback: "Praha"
 heroButtons:
@@ -68,7 +66,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/8Eng3qKph3SHQIqk1", text: "Registrujte se"}
+ - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
 
 # About Block
 aboutTitle: "O GEGfestu"
