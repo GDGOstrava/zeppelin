@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Novinky"}
  - {permalink: "/tym/", text: "Tým"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
+ - {link: "https://www.eventbrite.com/e/gegfest-praha-2018-tickets-42451775403", text: "Registrujte se"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
+ - {link: "https://www.eventbrite.com/e/gegfest-praha-2018-tickets-42451775403", text: "Registrujte se"}
 
 # Hero Block
 heroImage: "hero.png"
@@ -66,15 +66,16 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/tzZdXTN13C0zcedJ2", text: "Registrujte se"}
+ - {link: "https://www.eventbrite.com/e/gegfest-praha-2018-tickets-42451775403", text: "Registrujte se"}
 
 # About Block
 aboutTitle: "O GEGfestu"
-aboutConference: "Lorem ipsum"
+aboutConference: "<strong>Největší konference o technologiích Google ve vzdělávání v České republice.</strong> Program nabitý praktickými zkušenostmi, metodikou a hlavně nekonečnou inspirací, jak zefektivnit a inovovat výuku. Konference učitelů (nejen) pro učitele, pro které jsou moderní technologie výzvou, ale i cestou k obohacení výuky.</br><strong>Vstup je vždy zdarma, registrace je však nezbytná.</strong>"
 aboutBlock:
- - {title: "Konference", image: "conference.png", text: "<strong>Největší konference o technologiích Google ve vzdělávání v České republice.</strong> Program nabitý praktickými zkušenostmi, metodikou a hlavně nekonečnou inspirací, jak zefektivnit a inovovat výuku. Konference učitelů (nejen) pro učitele, pro které jsou moderní technologie výzvou, ale i cestou k obohacení výuky.</br>Vstup je vždy zdarma, registrace je však nezbytná." }
- - {title: "Přednášky", image: "presentation.png", text: "Dopolední program naplní několik přednášek s tématy z různých oblastí okolo technologií, vzdělávání a moderních trendů ve výuce. Pozvali jsme velmi zajímavé hosty, od kterých lze vždycky očekávat pěknou dávku inspirace. Těšíme se na ně!" }
- - {title: "Workshopy", image: "workshop.png", text: "V odpoledním programu se nabízí prostor přímo pro vás. Z nabídky workshopů si budete moci poskládat své vlastní odpoledne. </br> Workshopy povedou učitelé z praxe, kteří se rádi podělí o své zkušenosti a dovednosti právě s vámi. Uvidíte nejrůznější aplikace a technologie v rukách učitelů, kteří s nimi umějí a navíc je to baví. " }
+ - {title: "Přednášky", image: "conference.png", text: "Dopolední program naplní několik přednášek s tématy z různých oblastí okolo technologií, vzdělávání a moderních trendů ve výuce. Pozvali jsme velmi zajímavé hosty, od kterých lze vždycky očekávat pěknou dávku inspirace. Těšíme se na ně!" }
+ - {title: "Inspirace", image: "presentation.png", text: "Odpoledne podniknete cestu za zajímavostmi, nápady a novinkami, které už někdo vyzkoušel za vás. Budete si vybírat z dvacítky workshopů, každý bude mít 45 minut. Provedou vás kolegové učitelé, kteří nové nápady běžně používají ve výuce." }
+ - {title: "Tréninky", image: "workshop.png", text: "Nově se v odpoledním čase můžete také přihlásit na devadesátiminutové workshopy. Budete mít dost času vyzkoušet si zajímavé možnosti jak obohatit výuku o technologické vychytávky. Tréninky budou probíhat v počítačových učebnách, ale použít můžete i vlastní stroje!
+" }
  
 
 # Statistic Block
@@ -82,7 +83,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "", info: "účastníků", detail: ""}
  - {count: "1", specialCharacter: "", info: "den", detail: ""}
- - {count: "27", specialCharacter: "", info: "workshopů", detail: ""}
+ - {count: "25", specialCharacter: "", info: "tréninků a inspirací", detail: ""}
 
 
 # About Block
@@ -201,6 +202,7 @@ footerBlocks:
   links:
    - {link: "http://www.gegcr.cz/", text: "GEG ČR"}
    - {link: "http://www.praha2016.gegfest.cz", text: "GEGfest 2016"}
+   - {link: "http://www.praha2017.gegfest.cz", text: "GEGfest 2017"}
    - {link: "http://www.virtualni-prohlidky360.cz/projekty/PFUKPraha/_flash/VirtualTour_PFUKPraha.html", text: "Virtuální prohlídka Venue PedF UK"}
    - {link: "https://drive.google.com/drive/folders/0B6Iazp_sUPbEX01xR2toaURLMTg?usp=sharing", text: "Materiály z workshopů"}
 

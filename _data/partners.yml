@@ -6,5 +6,6 @@
   group: "Další partneři"
   elements: 
     - {name: "Khanova škola", description: "Khanova škola", link: "https://khanovaskola.cz/", imageUrl: "khanovaskola.png"}
-    - {name: "Wikimedia ČR", description: "Wikimedia Česká republika", link: "https://www.wikimedia.cz", imageUrl: "Wikimedia_Czech.png"}    
+    - {name: "Wikimedia ČR", description: "Wikimedia Česká republika", link: "https://www.wikimedia.cz", imageUrl: "Wikimedia_Czech.png"}
+    - {name: "Czechitas", description: "Czechitas", link: "https://www.czechitas.cz", imageUrl: "czechitas.png"}       
 - 
